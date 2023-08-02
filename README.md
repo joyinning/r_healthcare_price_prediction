@@ -10,7 +10,7 @@ R code is available on the link [Code](https://github.com/joyinning/r_healthcare
 - Duration: November ~ December 2022 <br>
 
 **2. Goal** <br>
-- To make the best prediction model on whether or not a customer will be expensive <br>
+- To make the best prediction model on whether or not a healthcare cost of a customer will be expensive <br>
 - To deliver the results with shiny apps website <br>
 - To generate actionable insights for HMO on how to lower the cost of healthcare <br>
 
