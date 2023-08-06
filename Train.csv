@@ -1,0 +1,2249 @@
+X,age,bmi,children,smoker,location,location_type,education_level,yearly_physical,exercise,married,hypertension,gender
+1,18,27.9,0,yes,CONNECTICUT,Urban,Bachelor,No,Active,Married,0,female
+3,27,33,3,no,MASSACHUSETTS,Urban,Master,No,Active,Married,0,male
+5,32,28.88,0,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,0,male
+10,59,25.84,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,female
+11,24,26.22,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+12,61,26.29,0,yes,CONNECTICUT,Urban,No College Degree,No,Active,Married,0,female
+16,18,24.6,1,no,PENNSYLVANIA,Country,No College Degree,Yes,Not-Active,Not_Married,0,male
+32,19,26.315,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+33,20,28.6,5,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,female
+34,63,28.31,0,no,MASSACHUSETTS,Country,Master,No,Not-Active,Not_Married,0,male
+37,63,32.965,3,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Not_Married,0,female
+41,22,26.6,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+50,35,35.2,1,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+59,53,22.88,1,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+60,35,37.335,2,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+63,64,24.7,1,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,male
+65,19,22.42,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+67,61,39.1,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,female
+76,58,34.01,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+80,41,32.965,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+82,46,38.285,0,no,MASSACHUSETTS,Urban,PhD,No,Active,Married,1,female
+90,55,26.98,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+92,53,24.795,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+94,36,34.77,2,no,NEW JERSEY,Urban,PhD,No,Active,Not_Married,0,male
+103,18,30.115,0,no,MASSACHUSETTS,Urban,Master,Yes,Not-Active,Married,0,female
+108,26,30.875,2,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+113,36,30.8,0,no,MARYLAND,Country,Bachelor,No,Not-Active,Married,1,male
+116,59,28.595,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+119,47,27.17,0,no,CONNECTICUT,Country,No College Degree,Yes,Not-Active,Married,0,female
+124,43,31.35,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+125,46,33.915,3,no,PENNSYLVANIA,Urban,PhD,Yes,Active,Married,1,female
+138,22,25.175,0,no,PENNSYLVANIA,Country,PhD,Yes,Not-Active,Married,0,male
+147,46,30.495,3,yes,NEW YORK,Country,Master,No,Not-Active,Married,0,male
+150,20,28.4,1,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+154,42,23.37,0,yes,MASSACHUSETTS,Urban,Bachelor,Yes,Not-Active,Married,0,female
+155,40,25.46,1,no,RHODE ISLAND,Urban,Master,Yes,Not-Active,Married,0,female
+158,18,25.175,0,yes,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+161,41,26.6,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+164,32,29.8,2,no,NEW YORK,Urban,Master,Yes,Active,Married,0,female
+169,21,31.825,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+171,62,41.47,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+172,49,30.3,0,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,male
+173,18,15.96,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,male
+178,56,29.2,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+179,46,28.9,2,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,0,female
+183,21,19.95,3,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+185,45,30.69,2,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+190,29,32.11,2,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,1,female
+195,18,34.43,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+196,18,30.59,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+198,44,28.6,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+201,18,32.11,0,no,MASSACHUSETTS,Urban,Master,Yes,Not-Active,Not_Married,0,female
+202,47,32.23,1,no,NEW JERSEY,Urban,No College Degree,No,Active,Married,0,female
+207,57,26.4,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+210,40,41.23,1,no,PENNSYLVANIA,Country,No College Degree,Yes,Active,Married,0,male
+218,29,23.1,0,no,RHODE ISLAND,Country,No College Degree,No,Not-Active,Not_Married,0,male
+222,53,33.25,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+234,58,27.5,1,no,NEW YORK,Country,Bachelor,No,Not-Active,Married,0,male
+241,23,36.67,2,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+254,29,30.3,3,no,RHODE ISLAND,Urban,Master,Yes,Not-Active,Married,0,male
+259,48,24.415,4,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+260,19,31.92,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+268,59,32.395,3,no,MASSACHUSETTS,Country,Master,No,Active,Married,0,female
+269,44,30.2,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+272,49,34.2,2,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+274,51,27.455,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+276,48,26.6,2,no,RHODE ISLAND,Country,Master,Yes,Not-Active,Married,0,female
+280,51,21.56,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+282,54,40.565,3,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+283,29,27.645,1,no,NEW YORK,Country,PhD,No,Not-Active,Not_Married,0,male
+291,29,33.4,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,female
+298,46,25.41,1,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,1,male
+310,42,33.06,2,no,MASSACHUSETTS,Country,Bachelor,No,Active,Married,0,female
+323,34,30.8,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+327,27,23.21,1,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Not_Married,0,female
+330,50,36.7,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+331,60,36.385,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+347,34,35.75,2,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,male
+356,45,27.6,0,no,NEW JERSEY,Country,PhD,No,Not-Active,Married,0,male
+358,46,29.83,3,no,NEW YORK,Urban,Master,No,Not-Active,Married,0,male
+359,22,41.91,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+360,18,20.79,0,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,0,female
+363,20,21.7,0,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+364,21,26.4,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+369,43,32.015,2,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,male
+375,19,33.33,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+377,38,24.89,3,yes,NEW YORK,Urban,Bachelor,No,Active,Married,0,female
+379,64,30.115,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+383,55,33,0,no,NEW JERSEY,Urban,No College Degree,Yes,Not-Active,Married,0,male
+387,59,29.1825,0,no,PENNSYLVANIA,Country,Master,No,Active,Not_Married,0,female
+396,46,19.855,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+414,25,23.9,5,no,MASSACHUSETTS,Country,Master,No,Not-Active,Married,0,male
+420,62,26.98,0,yes,PENNSYLVANIA,Country,Master,No,Not-Active,Married,1,female
+436,61,33.11,3,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+441,32,32.68,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+443,18,43.01,0,no,MARYLAND,Urban,Bachelor,Yes,Active,Married,0,male
+445,57,26.695,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,1,male
+446,44,33.1,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,female
+454,20,29.735,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+456,58,37.4,0,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,0,male
+464,57,25.935,0,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Married,0,male
+470,19,24.09,1,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,1,female
+473,19,29.8,0,no,NEW JERSEY,Urban,Master,Yes,Not-Active,Married,0,female
+474,47,33.345,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+475,54,25.1,3,yes,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,male
+476,60,28.31,1,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+479,22,36.85,0,no,RHODE ISLAND,Urban,Bachelor,Yes,Active,Not_Married,1,male
+494,60,43.4,0,no,MARYLAND,Country,Bachelor,No,Not-Active,Not_Married,0,male
+499,44,23.98,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,female
+501,28,34.4,0,yes,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,male
+511,56,32.11,1,no,NEW YORK,Urban,No College Degree,No,Not-Active,Married,0,male
+513,50,22.42,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+527,19,30.59,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+530,18,25.46,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+535,63,40.48,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+539,46,28.05,1,no,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,female
+540,52,31.35,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+544,55,47.41,0,yes,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,female
+545,54,30.21,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+551,62,30.8,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,1,male
+554,52,31.73,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,female
+555,25,41.325,0,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Not_Married,1,female
+557,45,33.44,1,no,NEW YORK,Urban,PhD,No,Active,Not_Married,1,male
+562,54,32.68,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+568,41,30.59,2,no,MARYLAND,Urban,Master,No,Active,Married,0,male
+569,49,31.9,5,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+572,19,37.29,1,no,RHODE ISLAND,Urban,PhD,Yes,Active,Not_Married,0,female
+580,25,23.465,0,no,CONNECTICUT,Urban,Master,Yes,Not-Active,Not_Married,0,female
+581,59,25.46,1,no,MASSACHUSETTS,Urban,No College Degree,No,Not-Active,Married,0,male
+587,19,20.235,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+596,47,33.725,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+601,18,39.16,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+602,52,31.635,0,no,NEW JERSEY,Country,Bachelor,Yes,Not-Active,Not_Married,0,male
+604,64,39.05,3,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+614,35,19,3,no,MARYLAND,Country,Bachelor,No,Not-Active,Not_Married,1,female
+618,50,25.6,2,yes,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,0,male
+619,20,33.11,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+622,37,34.1,4,yes,CONNECTICUT,Urban,Bachelor,No,Active,Married,1,male
+630,44,38.95,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+634,42,22.705,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,male
+638,35,38.095,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+645,42,35.31,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+646,47,30.78,3,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Not_Married,0,male
+647,40,26.22,1,no,PENNSYLVANIA,Urban,PhD,No,Active,Married,0,male
+652,53,39.6,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+657,27,42.4,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+660,56,28.785,4,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+665,64,22.99,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+668,40,32.775,2,yes,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+671,29,31.57,3,no,MARYLAND,Country,No College Degree,No,Not-Active,Not_Married,1,male
+674,41,31.02,0,no,RHODE ISLAND,Country,Master,No,Not-Active,Married,0,female
+686,53,26.41,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+695,25,34.8,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+698,40,35.75,1,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+707,50,38.06,0,yes,RHODE ISLAND,Urban,Bachelor,No,Active,Not_Married,1,female
+710,37,27.74,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+714,19,40.47,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+717,48,22.61,1,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+719,51,36.67,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+724,19,32.2375,0,no,MARYLAND,Urban,Master,No,Not-Active,Married,1,male
+736,49,34.77,1,no,RHODE ISLAND,Urban,Bachelor,Yes,Active,Married,0,female
+739,24,31.73,3,yes,MARYLAND,Urban,Bachelor,No,Active,Not_Married,1,male
+740,31,35.5,2,yes,CONNECTICUT,Urban,Master,Yes,Not-Active,Married,1,male
+742,27,29.15,0,yes,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+743,53,34.105,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+748,18,21.755,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+751,37,26.4,0,yes,MASSACHUSETTS,Urban,Master,Yes,Not-Active,Married,1,female
+754,58,22.77,0,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,female
+764,27,26.03,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Not_Married,0,male
+780,51,28.88,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+784,50,27.6,1,yes,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,1,female
+785,30,29.26,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+791,38,41.8,0,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,0,female
+795,40,31.92,2,no,MASSACHUSETTS,Urban,No College Degree,No,Active,Not_Married,0,female
+801,41,26.18,1,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,female
+804,18,42.24,0,yes,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+806,44,35.815,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+807,40,41.42,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+810,25,25.84,1,no,NEW YORK,Country,Master,Yes,Not-Active,Not_Married,0,male
+815,36,34.43,2,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,male
+832,37,25.84,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+834,57,34.39,0,no,NEW JERSEY,Urban,PhD,No,Active,Married,0,male
+838,56,28.31,0,no,MASSACHUSETTS,Country,PhD,No,Not-Active,Married,0,female
+845,53,30.495,0,no,RHODE ISLAND,Urban,Master,No,Not-Active,Not_Married,1,male
+846,60,32.45,0,yes,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,1,female
+847,50,34.2,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+851,38,30.78,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+861,38,47.6,2,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,1,female
+864,37,19.855,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+869,61,23.655,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,male
+871,50,36.2,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+882,23,27.36,1,no,MARYLAND,Country,Bachelor,No,Not-Active,Married,1,male
+884,51,37.05,3,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+885,26,26.695,4,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+893,55,24.035,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,male
+895,62,32.11,0,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+899,18,40.26,0,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,1,female
+904,48,36.85,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+915,32,24.605,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,male
+917,44,26.885,0,yes,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+920,36,34.21,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+930,40,34.21,1,no,PENNSYLVANIA,Country,No College Degree,Yes,Not-Active,Married,1,male
+931,26,46.53,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+933,45,25.8,5,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+939,18,26.18,2,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,male
+941,18,23.21,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+943,19,40.185,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,female
+946,55,35.8,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+948,38,34.2,1,yes,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,1,male
+949,42,31.255,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+952,50,42.9,2,yes,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+955,35,27.835,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,male
+957,54,30.8,1,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+965,53,36.765,2,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Not_Married,0,male
+966,34,27.1,1,no,MASSACHUSETTS,Urban,Bachelor,Yes,Not-Active,Married,1,male
+972,33,23.56,0,no,NEW YORK,Country,Master,No,Active,Not_Married,0,female
+974,19,40.5,0,no,CONNECTICUT,Country,Bachelor,Yes,Not-Active,Married,1,female
+975,26,35.42,0,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,1,male
+977,47,40.15,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+979,44,39.995,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+987,44,30.115,3,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+994,39,28.27,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+1000,36,26.885,0,no,NEW JERSEY,Country,No College Degree,No,Active,Married,0,female
+1001,31,22.99,2,yes,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+1006,30,31.73,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+1011,48,22.8,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,1,female
+1015,37,28.88,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+1017,18,24.605,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+1037,22,37.07,2,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+1041,36,28.025,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+1042,19,23.085,0,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Not_Married,0,male
+1044,29,25.8,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+1047,43,25.08,0,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,0,female
+1050,49,30.9,0,yes,MARYLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+1066,42,25.3,1,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,female
+1072,63,31.445,0,no,MARYLAND,Country,No College Degree,Yes,Not-Active,Not_Married,0,male
+1076,32,29.59,1,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+1081,18,21.78,2,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,0,male
+1083,39,19.95,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+1086,38,18.3,5,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,1,female
+1092,57,34.445,0,no,RHODE ISLAND,Country,Bachelor,Yes,Not-Active,Married,0,female
+1094,23,30.4,0,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+1095,49,33.7,4,no,MARYLAND,Country,Bachelor,No,Active,Not_Married,0,female
+1096,19,31.35,4,no,RHODE ISLAND,Country,No College Degree,No,Active,Married,0,female
+1098,21,33.77,0,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,0,male
+1100,25,33.99,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+1101,32,19.095,2,yes,CONNECTICUT,Urban,Bachelor,No,Active,Married,0,female
+1102,54,28.6,3,no,MARYLAND,Urban,No College Degree,No,Active,Married,0,male
+1103,30,38.94,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+1107,49,29.925,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+1112,39,38.39,3,yes,CONNECTICUT,Urban,Bachelor,No,Active,Married,0,male
+1119,34,35.75,1,yes,MASSACHUSETTS,Urban,PhD,No,Active,Married,0,male
+1121,23,31.4,0,yes,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+1122,45,38.17,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+1127,55,29.9,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1129,34,32.8,1,no,PENNSYLVANIA,Urban,PhD,No,Active,Married,0,male
+1133,56,40.28,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+1138,26,22.23,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,1,female
+1140,19,32.49,0,yes,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Not_Married,1,female
+1146,52,32.775,3,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,male
+1151,18,30.305,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+1155,50,27.93,4,no,RHODE ISLAND,Urban,Bachelor,No,Active,Married,0,female
+1159,20,30.59,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+1176,22,27.1,0,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,female
+1177,53,24.13,1,yes,NEW YORK,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+1179,22,34.865,0,no,RHODE ISLAND,Urban,PhD,Yes,Not-Active,Married,1,female
+1189,42,25.27,1,yes,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,1,female
+1193,57,32.395,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+1194,47,36.575,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+1195,30,21.755,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+1202,46,40.375,2,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Not_Married,1,male
+1209,37,25.555,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,female
+1213,18,21.47,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1215,27,31.255,1,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,female
+1216,18,39.14,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+1223,50,25.3,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1229,56,34.43,0,no,NEW JERSEY,Country,Master,No,Active,Not_Married,1,male
+1236,26,31.065,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+1245,18,33.33,0,no,RHODE ISLAND,Urban,Master,No,Not-Active,Married,0,male
+1248,33,29.4,4,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1253,19,27.3,0,yes,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,1,male
+1265,49,33.345,2,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+1267,54,30.5,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+1269,20,33.3,0,no,RHODE ISLAND,Country,Master,No,Active,Married,0,female
+1277,22,30.4,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+1278,33,29.735,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+1289,20,39.4,2,yes,PENNSYLVANIA,Country,No College Degree,Yes,Active,Married,1,male
+1302,62,30.875,3,yes,NEW JERSEY,Country,PhD,No,Not-Active,Not_Married,0,male
+1309,27,30.2,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+1312,33,26.695,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+1313,34,42.9,1,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+1315,30,23.655,3,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+1321,32,31.065,3,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,1,male
+1325,30,25.935,1,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,male
+1333,52,44.7,3,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+1335,18,31.92,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+11100,25,26.22,0,no,MARYLAND,Urban,PhD,No,Not-Active,Married,0,male
+13011,46,30.36,0,yes,RHODE ISLAND,Urban,No College Degree,No,Active,Not_Married,0,male
+7621,23,35.2,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+8311,62,34.54,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+4211,64,33.88,0,yes,PENNSYLVANIA,Country,Master,No,Not-Active,Married,1,male
+9581,25,26.79,1,no,CONNECTICUT,Country,Bachelor,Yes,Not-Active,Married,0,male
+2171,53,26.6,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+9361,59,27.5,0,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Not_Married,0,female
+9761,29,22.895,0,yes,MARYLAND,Urban,Bachelor,Yes,Active,Married,0,male
+12841,18,30.03,1,no,MARYLAND,Urban,Bachelor,Yes,Active,Not_Married,0,male
+10841,32,31.5,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+4661,31,28.38,1,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,1,female
+4361,59,33.11,3,no,PENNSYLVANIA,Urban,PhD,Yes,Not-Active,Married,0,male
+5610,58,36.955,2,yes,MASSACHUSETTS,Urban,PhD,No,Active,Not_Married,1,male
+12581,55,27.645,1,no,NEW JERSEY,Urban,Master,No,Not-Active,Married,0,female
+4411,30,32.68,1,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+12591,55,37.715,3,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Not_Married,0,male
+3921,18,37.43,0,no,CONNECTICUT,Country,Master,Yes,Active,Not_Married,0,female
+13221,63,26.695,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,male
+4511,39,29.6,4,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,1,male
+3471,33,35.75,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+5421,21,31.79,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+2410,33,31.92,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+8810,56,27.2,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+3631,20,21.7,0,yes,RHODE ISLAND,Urban,Master,No,Active,Married,1,female
+13201,39,26.315,2,no,RHODE ISLAND,Country,No College Degree,No,Not-Active,Married,0,female
+10561,56,27.645,0,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,male
+3881,49,25.365,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+11271,55,29.9,0,no,RHODE ISLAND,Urban,Master,No,Not-Active,Married,0,male
+8401,59,31.35,0,no,NEW YORK,Country,Bachelor,No,Active,Married,0,female
+11231,53,36.86,3,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+4100,34,22.705,0,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,0,male
+5241,36,37.73,0,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,female
+1811,58,28.595,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+11641,19,28.215,0,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,female
+9610,27,37.62,1,no,MARYLAND,Urban,Bachelor,No,Active,Married,1,female
+10291,53,31.6,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+2261,55,33.88,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+3851,43,22.135,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+7831,50,35.97,1,no,CONNECTICUT,Country,Bachelor,Yes,Not-Active,Married,1,male
+8910,46,27.74,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+6541,45,36.3,2,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,0,female
+3211,34,25.27,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+3141,50,35.86,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+5501,43,46.2,0,yes,CONNECTICUT,Urban,PhD,No,Not-Active,Married,0,female
+10211,50,37,0,no,MARYLAND,Urban,PhD,Yes,Active,Married,1,male
+6971,53,32.3,2,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,female
+6861,52,26.41,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+6431,61,33.915,0,no,PENNSYLVANIA,Country,PhD,No,Active,Not_Married,0,male
+2851,52,31.2,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,female
+4371,21,31.73,0,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+7001,23,39.27,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+11101,45,20.35,3,no,RHODE ISLAND,Country,Master,No,Not-Active,Married,0,male
+5101,56,28.7,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+4571,54,30.14,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+11821,23,29.925,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+13211,30,31.065,3,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,male
+6710,61,39.1,2,no,CONNECTICUT,Country,Master,No,Not-Active,Not_Married,0,female
+9441,20,22.61,0,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Married,0,male
+2591,51,24.415,4,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+8711,49,36.2,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+4910,62,24.53,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+6011,18,39.16,0,no,CONNECTICUT,Urban,No College Degree,Yes,Active,Not_Married,0,female
+12981,30,26.51,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+6671,49,28.7,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,male
+3601,18,20.79,0,no,NEW YORK,Country,Bachelor,No,Active,Married,0,female
+9381,39,24.225,5,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+2801,51,21.56,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+12791,38,29.925,1,yes,RHODE ISLAND,Urban,Master,No,Not-Active,Not_Married,0,male
+3671,57,32.3,3,no,MARYLAND,Country,Bachelor,No,Not-Active,Not_Married,0,female
+6851,33,18.5,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,female
+11871,20,35.625,3,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+13210,60,22.04,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+5321,62,31.73,0,no,CONNECTICUT,Urban,PhD,Yes,Not-Active,Not_Married,0,female
+11061,55,31.24,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+7211,51,40.66,0,no,NEW YORK,Country,Bachelor,No,Active,Married,0,female
+5941,21,21.85,1,yes,MARYLAND,Urban,Master,No,Not-Active,Married,0,female
+4531,25,23.4,0,no,MASSACHUSETTS,Urban,No College Degree,No,Not-Active,Married,1,male
+6071,28,25.175,0,no,MARYLAND,Urban,Master,No,Not-Active,Married,0,female
+3710,62,32.965,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+13131,36,42.9,1,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Married,0,male
+7111,18,35.2,1,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+2001,62,39.33,0,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,female
+8131,55,21.01,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+6151,22,33,0,no,MARYLAND,Urban,No College Degree,No,Not-Active,Married,1,female
+2110,60,36.005,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+2361,40,22.22,2,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+10891,51,47.74,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+3310,21,28.6,5,no,NEW JERSEY,Urban,No College Degree,Yes,Not-Active,Married,0,female
+8331,27,23.845,2,no,PENNSYLVANIA,Urban,Master,Yes,Active,Married,0,female
+10791,28,31.68,0,yes,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,1,male
+6311,54,36.1,1,no,PENNSYLVANIA,Urban,Master,Yes,Active,Married,0,male
+5651,18,32.12,2,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,0,female
+11021,54,28.6,3,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Married,0,male
+7461,50,30.115,1,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+11801,31,29.81,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+6401,57,33.66,4,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+7981,31,22.895,1,no,NEW JERSEY,Urban,PhD,No,Not-Active,Married,0,female
+9391,19,26.18,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+8610,45,22.895,2,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+8161,20,31.46,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,female
+12891,20,39.4,2,yes,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,male
+6981,40,35.75,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+6351,52,39.7,1,no,NEW YORK,Country,Master,No,Active,Not_Married,1,male
+9831,32,25.9,3,yes,CONNECTICUT,Country,Master,No,Active,Not_Married,0,male
+10021,23,32.7,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+4001,18,38.17,0,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,female
+5041,19,30.25,0,yes,PENNSYLVANIA,Urban,Master,Yes,Active,Married,0,male
+5261,19,33.88,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+9321,40,32.5,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+3731,42,33.155,1,no,NEW YORK,Urban,Master,No,Not-Active,Married,0,female
+1710,51,30.78,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+13301,52,38.6,2,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,0,male
+13311,57,25.74,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+6961,26,40.185,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,female
+5591,34,34.105,3,yes,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+5871,21,20.235,3,no,NEW JERSEY,Urban,Master,No,Not-Active,Not_Married,0,male
+3541,34,27.87,0,no,PENNSYLVANIA,Country,PhD,No,Active,Married,0,male
+9791,45,39.995,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+8441,58,29.81,0,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+9501,24,29.7,3,yes,MASSACHUSETTS,Country,PhD,No,Not-Active,Married,0,male
+11511,18,30.305,0,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,female
+4761,61,28.31,1,yes,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+12651,49,33.345,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,female
+7591,29,37.43,3,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+5701,48,40.565,2,yes,RHODE ISLAND,Country,Bachelor,No,Not-Active,Married,1,male
+5081,21,23.75,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+10881,57,31.54,0,no,RHODE ISLAND,Country,Master,Yes,Active,Married,1,male
+6901,28,31.13,1,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+10341,18,21.565,0,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+2661,47,42.35,3,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+7901,62,29.92,0,no,CONNECTICUT,Urban,Master,No,Not-Active,Not_Married,1,female
+4251,49,30.2,2,no,MASSACHUSETTS,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+4351,30,28.595,1,no,NEW YORK,Urban,Master,No,Active,Not_Married,0,male
+9461,55,35.8,1,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,female
+9861,43,25.8,1,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Married,0,female
+11201,29,19.95,3,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+10231,48,36.08,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+7171,50,22.61,1,no,CONNECTICUT,Urban,PhD,No,Active,Married,0,female
+5481,55,46.7,2,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,female
+7961,27,28.5,0,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+12731,43,25.52,5,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Not_Married,1,male
+5581,33,34.21,0,no,NEW JERSEY,Country,No College Degree,No,Not-Active,Married,0,male
+10562,55,27.645,0,no,NEW YORK,Country,Bachelor,No,Not-Active,Married,0,male
+9251,43,23.2,0,no,NEW JERSEY,Urban,No College Degree,Yes,Not-Active,Married,1,male
+12531,20,27.3,0,yes,PENNSYLVANIA,Country,PhD,No,Not-Active,Not_Married,0,male
+1961,19,30.59,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+1361,23,28.05,0,no,RHODE ISLAND,Urban,Master,Yes,Not-Active,Not_Married,0,female
+13202,38,26.315,2,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,female
+2012,19,32.11,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+10232,48,36.08,1,yes,NEW JERSEY,Urban,Bachelor,No,Active,Not_Married,0,male
+3821,55,30.685,0,yes,RHODE ISLAND,Country,Bachelor,No,Not-Active,Married,1,male
+1751,24,33.345,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+10771,48,32,1,no,MARYLAND,Country,Master,No,Not-Active,Married,0,female
+5461,49,25.84,2,yes,CONNECTICUT,Urban,Master,Yes,Not-Active,Married,0,male
+11951,31,21.755,0,no,NEW JERSEY,Country,Master,No,Not-Active,Not_Married,0,female
+7722,53,26.7,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+66611,43,38.06,2,yes,CONNECTICUT,Country,Bachelor,No,Active,Not_Married,0,male
+7222,53,36.6,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+93311,46,25.8,5,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,male
+5921,47,19.57,1,no,NEW YORK,Urban,No College Degree,No,Active,Not_Married,0,male
+93211,38,32.5,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+6651,65,22.99,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,female
+6152,20,33,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,female
+38611,20,34.4,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+9661,35,27.1,1,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,male
+6322,25,29.3,0,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,male
+80911,18,30.14,0,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+12121,38,34.1,2,no,RHODE ISLAND,Country,Bachelor,No,Active,Not_Married,0,male
+22511,40,24.64,0,yes,CONNECTICUT,Urban,Bachelor,Yes,Active,Not_Married,0,male
+12621,28,37.1,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+110411,59,26.8375,0,no,RHODE ISLAND,Country,Bachelor,No,Active,Married,0,male
+2752,25,27.55,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+10202,22,32.68,2,no,CONNECTICUT,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+127411,35,27.61,1,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,male
+3632,20,21.7,0,yes,PENNSYLVANIA,Country,Bachelor,Yes,Active,Not_Married,0,female
+4362,61,33.11,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+9342,44,35.3,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,female
+2262,55,33.88,3,no,MARYLAND,Urban,PhD,No,Not-Active,Married,1,male
+3511,58,23.18,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+2522,62,32.2,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+31101,22,35.6,0,yes,NEW YORK,Country,Bachelor,Yes,Not-Active,Not_Married,0,male
+12041,51,32.3,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+2891,59,36.765,1,yes,NEW YORK,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+11512,54,32.205,3,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,male
+12552,32,27.72,0,no,NEW JERSEY,Country,Master,No,Not-Active,Married,0,female
+14311,35,25.3,2,yes,NEW JERSEY,Urban,Bachelor,No,Active,Married,1,male
+13222,63,26.695,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+12252,41,23.94,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+58211,18,30.59,0,no,MARYLAND,Urban,No College Degree,No,Active,Married,0,male
+5592,35,34.105,3,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+1581,18,25.175,0,yes,PENNSYLVANIA,Country,Master,No,Active,Married,0,male
+7172,49,22.61,1,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,female
+103711,23,37.07,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+45211,29,24.13,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,male
+46811,56,33.82,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+3882,49,25.365,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+10762,34,29.59,1,no,PENNSYLVANIA,Country,Master,No,Active,Not_Married,0,female
+59911,42,32.6,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+1342,19,27.9,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+82101,45,38.285,0,no,MASSACHUSETTS,Urban,No College Degree,Yes,Not-Active,Married,0,female
+10581,45,31.79,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+2311,43,36.195,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+97511,27,35.42,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+12191,46,34.6,1,yes,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+10512,34,27.5,1,no,NEW JERSEY,Country,PhD,No,Not-Active,Married,0,female
+127111,26,33.915,1,no,MARYLAND,Urban,Master,No,Not-Active,Married,0,male
+17911,46,28.9,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+1412,35,22.42,2,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+7281,29,21.755,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+11161,55,32.67,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+8472,51,34.2,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+10342,18,21.565,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+7902,61,29.92,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,female
+9741,19,40.5,0,no,PENNSYLVANIA,Urban,PhD,No,Active,Married,0,female
+7782,43,39.805,0,no,NEW JERSEY,Urban,Bachelor,No,Active,Married,1,male
+130711,29,21.85,0,yes,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,0,female
+8442,56,29.81,0,yes,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,female
+11062,53,31.24,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+3441,64,36.765,0,no,RHODE ISLAND,Urban,Master,Yes,Not-Active,Not_Married,0,male
+11642,18,28.215,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+6262,28,36.835,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+9571,52,30.8,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,male
+7912,22,39.805,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+4061,51,38.38,2,no,NEW YORK,Country,Bachelor,No,Not-Active,Married,1,female
+5061,38,30.875,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+6731,35,29.7,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+66311,32,31.54,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+99711,39,34.1,3,no,NEW YORK,Urban,Bachelor,Yes,Active,Married,0,female
+12611,27,28.785,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+9961,40,23.275,3,no,NEW YORK,Urban,No College Degree,No,Not-Active,Not_Married,1,female
+13310,53,35.9,2,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Not_Married,0,female
+69811,40,35.75,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+10212,29,25.46,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+8802,38,29.5,2,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+1632,53,39.6,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+5611,48,19.95,2,no,NEW YORK,Urban,Master,Yes,Active,Married,1,female
+124411,28,33.11,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+3132,43,35.97,3,yes,NEW JERSEY,Urban,Master,Yes,Active,Married,0,male
+81311,53,21.01,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+82011,33,35.53,0,yes,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+27511,24,27.55,0,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,male
+11872,20,35.625,3,yes,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+69611,26,40.185,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+4532,24,23.4,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+110611,55,31.24,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+88211,23,27.36,1,no,NEW JERSEY,Urban,Master,No,Not-Active,Not_Married,0,male
+4772,24,28.5,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+122011,38,30.21,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+5301,18,25.46,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+43711,21,31.73,0,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,male
+1610,19,24.6,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+10531,48,29.83,1,no,CONNECTICUT,Urban,PhD,No,Not-Active,Married,0,male
+84311,23,32.78,2,yes,MASSACHUSETTS,Urban,Master,No,Active,Not_Married,0,female
+11361,51,28.12,3,no,CONNECTICUT,Urban,PhD,No,Not-Active,Not_Married,0,female
+125511,34,27.72,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+1981,45,28.6,2,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,1,female
+6912,41,36.19,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,female
+11010,63,35.09,0,yes,NEW YORK,Urban,No College Degree,No,Not-Active,Married,0,male
+77811,46,39.805,0,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,0,male
+5891,61,35.91,0,no,RHODE ISLAND,Country,Bachelor,No,Active,Not_Married,0,female
+28611,45,26.62,1,no,MASSACHUSETTS,Urban,Bachelor,Yes,Not-Active,Married,1,male
+11411,22,35.72,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,1,female
+9702,39,34.32,5,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+11122,39,38.39,3,yes,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,male
+8151,36,34.43,2,no,PENNSYLVANIA,Country,Master,No,Active,Married,0,male
+11811,41,41.325,1,no,NEW YORK,Urban,Master,No,Not-Active,Married,1,female
+9322,39,32.5,1,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Not_Married,0,female
+8411,20,31.1,0,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+90311,26,27.265,3,no,NEW JERSEY,Country,No College Degree,No,Not-Active,Married,1,male
+31611,53,33.25,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,1,male
+84611,60,32.45,0,yes,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,female
+10213,50,37,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+9372,44,29.735,2,no,NEW JERSEY,Urban,Bachelor,Yes,Active,Not_Married,1,male
+13142,19,34.7,2,yes,RHODE ISLAND,Urban,Master,Yes,Not-Active,Married,0,female
+7371,37,38.39,0,yes,PENNSYLVANIA,Urban,Master,No,Active,Married,0,female
+1871,26,29.92,2,no,NEW JERSEY,Country,No College Degree,No,Active,Married,0,female
+11891,44,25.27,1,yes,RHODE ISLAND,Urban,Bachelor,No,Active,Not_Married,0,female
+9762,29,22.895,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+102311,47,36.08,1,yes,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,male
+122311,51,25.3,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,1,male
+4261,44,24.31,5,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+67611,46,21.375,0,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,male
+113511,29,33.82,0,no,MARYLAND,Urban,Bachelor,Yes,Active,Not_Married,0,male
+2810,55,32.775,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+7082,50,28.69,3,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+3782,23,40.15,0,yes,NEW JERSEY,Urban,PhD,No,Not-Active,Married,1,male
+2702,50,25.84,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+12592,56,37.715,3,no,RHODE ISLAND,Urban,Bachelor,No,Active,Married,0,male
+2802,52,21.56,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+12061,35,17.86,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+3241,56,40.945,0,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,male
+3172,50,32.205,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,male
+26611,46,42.35,3,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+8122,35,42.94,3,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Married,0,female
+12351,44,27.83,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+43611,58,33.11,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,male
+11822,24,29.925,0,no,CONNECTICUT,Country,Bachelor,No,Active,Married,0,female
+131101,59,26.505,0,no,RHODE ISLAND,Urban,PhD,No,Not-Active,Married,0,female
+7752,41,34.2,2,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,1,male
+102211,22,31.02,3,yes,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Not_Married,0,female
+5691,48,31.9,5,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+55711,45,33.44,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+25211,63,32.2,2,yes,PENNSYLVANIA,Country,Bachelor,Yes,Active,Not_Married,0,female
+4712,27,32.67,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Not_Married,0,male
+80101,42,32.965,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,1,female
+71911,52,36.67,2,no,MARYLAND,Country,Bachelor,Yes,Active,Not_Married,0,female
+4051,31,20.4,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+3571,47,43.89,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+114211,41,32.6,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+11081,52,26.22,2,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+4171,54,34.1,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+12992,34,27.455,2,no,NEW JERSEY,Country,Bachelor,No,Active,Married,0,male
+11242,28,32.395,1,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,female
+12942,47,25.745,3,no,PENNSYLVANIA,Country,No College Degree,Yes,Not-Active,Not_Married,0,male
+10372,22,37.07,2,yes,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,male
+12222,41,24.97,2,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,1,male
+11902,23,28,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Not_Married,1,female
+13091,24,30.2,0,yes,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,1,female
+12310,20,28.975,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+4572,54,30.14,2,no,RHODE ISLAND,Urban,Bachelor,No,Active,Married,1,female
+31911,44,27.645,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,female
+2151,45,30.9,2,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,female
+9621,29,25.9,0,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Married,0,female
+102811,23,18.715,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+2651,52,38.06,3,no,NEW JERSEY,Urban,No College Degree,No,Active,Not_Married,0,female
+8781,32,33.44,5,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+1711,52,30.78,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+9712,52,28.16,3,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Married,0,female
+7601,18,38.17,0,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,0,male
+7521,20,28.975,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+21211,42,30.875,4,no,MARYLAND,Country,Master,No,Not-Active,Married,0,male
+6441,23,34.96,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,female
+8862,34,28.93,1,yes,MARYLAND,Urban,Master,No,Active,Married,1,male
+7671,49,32.3,1,no,RHODE ISLAND,Country,PhD,No,Not-Active,Married,0,male
+71511,26,22.6,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+73111,35,24.42,3,yes,PENNSYLVANIA,Urban,No College Degree,No,Active,Not_Married,0,male
+10431,21,30.685,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+9731,22,20.235,0,no,MARYLAND,Urban,Bachelor,Yes,Active,Married,0,female
+4162,42,35.64,1,no,PENNSYLVANIA,Country,No College Degree,No,Active,Not_Married,1,female
+6641,18,33.66,0,no,NEW YORK,Urban,Master,No,Not-Active,Married,0,male
+1392,55,31.9,3,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Married,0,female
+95511,35,27.835,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+6113,47,29.37,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+60611,51,34.1,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+3412,63,28.31,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+89101,46,27.74,0,no,NEW JERSEY,Urban,Bachelor,No,Active,Not_Married,0,female
+6010,33,37.335,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+8491,27,24.1,0,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Not_Married,0,female
+3592,22,41.91,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+10311,46,23.655,1,yes,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+10241,20,23.32,1,no,RHODE ISLAND,Country,Bachelor,No,Not-Active,Married,0,male
+38821,50,25.365,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+746111,50,30.115,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,female
+13253,31,25.935,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+99421,39,28.27,1,no,RHODE ISLAND,Country,Master,No,Not-Active,Married,0,male
+191111,61,31.57,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+10642,35,28.595,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+102021,21,32.68,2,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Not_Married,0,female
+3301,52,36.7,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+69412,25,23.655,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+45102,38,37.05,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+8582,23,24.13,0,yes,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+671011,61,39.1,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+766111,57,31.825,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+8282,35,28.025,1,yes,PENNSYLVANIA,Country,Bachelor,No,Active,Married,1,male
+696111,27,40.185,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+222111,52,33.25,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,female
+45111,39,29.6,4,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+10262,20,34.6,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+47912,20,36.85,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+13611,22,28.05,0,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+103111,46,23.655,1,yes,CONNECTICUT,Urban,Master,Yes,Not-Active,Married,1,female
+6041,66,39.05,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+132012,40,26.315,2,no,RHODE ISLAND,Urban,Bachelor,No,Active,Not_Married,1,female
+1773,40,27.835,2,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,1,male
+33111,61,36.385,1,yes,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,female
+3810,26,20.8,0,no,NEW YORK,Urban,No College Degree,No,Not-Active,Married,0,male
+12122,39,34.1,2,no,PENNSYLVANIA,Country,No College Degree,No,Active,Married,1,male
+11742,38,29.26,2,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+30511,56,38,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+5922,48,19.57,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+4513,38,37.05,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+6263,30,26.03,0,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,0,female
+27521,24,27.55,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+102312,48,36.08,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+7951,40,31.92,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+4713,18,38.665,2,no,CONNECTICUT,Country,Bachelor,No,Active,Married,1,female
+8511,38,30.78,0,yes,CONNECTICUT,Country,No College Degree,No,Not-Active,Not_Married,0,female
+3331,61,31.16,0,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Married,0,female
+6813,38,26.315,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+5563,28,23.8,2,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+43911,53,46.75,5,no,CONNECTICUT,Country,Master,Yes,Not-Active,Married,1,female
+65721,25,42.4,1,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Not_Married,1,female
+40411,49,32.3,3,no,PENNSYLVANIA,Urban,PhD,No,Active,Not_Married,0,male
+108711,54,28.975,0,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+238111,31,38.39,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+18521,44,30.69,2,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+79711,31,44.22,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+5802,25,23.465,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,1,female
+1283111,18,21.66,0,yes,NEW JERSEY,Urban,Bachelor,No,Active,Married,0,female
+7691,63,39.7,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+52611,18,33.88,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,1,female
+56111,46,19.95,2,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,0,female
+371111,60,21.09,0,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,female
+66121,38,46.53,3,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+1255111,33,27.72,0,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,female
+66612,43,38.06,2,yes,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,1,male
+75911,30,37.43,3,no,MASSACHUSETTS,Urban,PhD,Yes,Not-Active,Married,1,male
+300111,49,28.88,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+10373,21,37.07,2,yes,NEW YORK,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+8432,23,32.78,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+12223,40,24.97,2,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+128721,28,17.29,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,female
+12632,41,28.05,1,no,RHODE ISLAND,Urban,No College Degree,No,Active,Not_Married,0,female
+9742,18,40.5,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,female
+101412,49,32.3,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+17311,19,15.96,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+71112,18,35.2,1,no,NEW YORK,Urban,Master,Yes,Active,Married,0,male
+2571,55,33.63,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+2162,42,37.1,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,female
+430111,27,30.4,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+13282,50,30.03,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1316111,19,28.31,1,no,RHODE ISLAND,Urban,Bachelor,No,Active,Not_Married,0,male
+4922,61,25.08,0,no,RHODE ISLAND,Country,Bachelor,No,Active,Married,0,female
+117411,38,29.26,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+7593,30,37.43,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+663111,33,31.54,1,no,NEW JERSEY,Country,PhD,No,Not-Active,Married,0,female
+15211,48,29.7,0,no,CONNECTICUT,Urban,No College Degree,No,Not-Active,Married,0,male
+79312,22,23.18,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+129612,19,22,1,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,0,male
+5312,59,42.13,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+7491,46,36,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+22711,28,38.06,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+18711,26,29.92,2,no,MARYLAND,Country,PhD,Yes,Not-Active,Married,0,female
+12873,28,17.29,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+2731,41,37.05,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+6821,19,20.3,0,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Not_Married,0,male
+3002,48,28.88,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,1,female
+102511,47,45.32,1,no,MARYLAND,Urban,No College Degree,No,Not-Active,Married,0,female
+13421,21,27.9,0,yes,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,female
+2242,19,34.8,0,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+3491,37,29.92,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+121721,41,25.08,0,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,male
+10402,20,27.265,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,male
+97911,44,39.995,3,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,female
+12011,37,24.32,2,no,NEW JERSEY,Country,Master,No,Not-Active,Not_Married,1,male
+7663,58,31.825,0,no,NEW YORK,Urban,Master,Yes,Not-Active,Married,0,female
+23111,42,36.195,1,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,female
+4222,61,35.86,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,male
+1381,23,25.175,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+89911,18,40.26,0,no,NEW YORK,Country,Bachelor,No,Active,Not_Married,0,female
+87811,35,33.44,5,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+111921,34,35.75,1,yes,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+41511,18,35.15,0,no,NEW JERSEY,Urban,PhD,Yes,Active,Not_Married,0,female
+6553,60,35.2,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+32101,18,26.315,0,no,MASSACHUSETTS,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+1910,56,40.3,0,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Not_Married,0,male
+972111,34,23.56,0,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,1,female
+104101,61,29.92,3,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,female
+103412,19,21.565,0,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,male
+66511,64,22.99,0,yes,NEW YORK,Urban,No College Degree,No,Not-Active,Married,0,female
+951011,64,31.3,2,yes,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,1,female
+3561,47,27.6,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,1,male
+472111,19,30.115,0,no,CONNECTICUT,Country,Bachelor,Yes,Not-Active,Married,0,female
+8321,35,25.84,0,no,MASSACHUSETTS,Urban,No College Degree,No,Not-Active,Married,0,female
+50311,50,23.21,1,yes,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,male
+74711,34,27,2,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+4514,39,29.6,4,no,CONNECTICUT,Country,No College Degree,Yes,Active,Not_Married,1,male
+814111,28,22.515,2,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+61611,47,36.63,1,yes,MASSACHUSETTS,Urban,Master,No,Active,Married,0,female
+61102,43,27.36,3,no,CONNECTICUT,Urban,Master,No,Active,Not_Married,0,male
+112912,34,32.8,1,no,NEW JERSEY,Country,Bachelor,No,Active,Married,0,male
+31912,44,27.645,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+41411,26,23.9,5,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+7702,39,19.475,2,no,MARYLAND,Country,Master,No,Active,Not_Married,1,female
+51111,56,32.11,1,no,CONNECTICUT,Country,Master,No,Not-Active,Married,0,male
+632111,25,29.3,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+30211,53,22.61,3,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+26612,46,42.35,3,yes,PENNSYLVANIA,Urban,PhD,Yes,Not-Active,Married,0,male
+565111,19,32.12,2,no,NEW YORK,Urban,No College Degree,Yes,Not-Active,Not_Married,0,female
+7021,50,44.745,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,1,female
+80112,42,26.18,1,no,NEW YORK,Country,Bachelor,No,Not-Active,Married,0,female
+7183,59,24.32,1,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,male
+11492,55,21.5,1,no,MARYLAND,Country,Bachelor,Yes,Not-Active,Married,0,male
+2592,51,24.415,4,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+698111,41,35.75,1,yes,MARYLAND,Urban,PhD,Yes,Not-Active,Not_Married,0,male
+1671,19,37,5,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+34821,47,33.345,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+11823,24,29.925,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+9522,50,42.9,2,yes,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,0,male
+93921,18,26.18,2,no,PENNSYLVANIA,Country,PhD,Yes,Not-Active,Not_Married,1,male
+7121,50,23.54,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+63021,45,38.95,0,yes,MARYLAND,Urban,Master,No,Not-Active,Married,0,female
+3502,20,27.835,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+2671,39,19.8,1,yes,NEW JERSEY,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+5982,33,33.25,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+130512,43,24.605,2,yes,CONNECTICUT,Urban,Bachelor,Yes,Active,Married,0,male
+92011,36,34.21,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,1,female
+8912,46,27.74,0,no,PENNSYLVANIA,Country,PhD,No,Active,Married,0,female
+1231111,52,34.485,3,yes,RHODE ISLAND,Country,Bachelor,No,Not-Active,Not_Married,0,male
+130712,29,21.85,0,yes,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,female
+72011,58,33.44,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,female
+10472,43,25.08,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+17611,63,37.7,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+10712,37,37.07,1,yes,PENNSYLVANIA,Urban,Master,Yes,Active,Married,0,male
+6412,33,42.4,5,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+80811,20,36.575,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+5531,61,21.4,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+133611,18,36.85,0,no,CONNECTICUT,Country,Bachelor,Yes,Not-Active,Married,0,female
+48311,18,31.35,0,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,1,female
+13362,18,28.7,0,no,NEW YORK,Urban,PhD,No,Not-Active,Married,0,female
+46712,61,28.7,1,no,MARYLAND,Urban,Bachelor,Yes,Active,Married,0,female
+12462,29,24.3,5,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+88021,37,29.5,2,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,1,female
+20111,18,32.11,0,no,CONNECTICUT,Urban,PhD,No,Not-Active,Married,0,female
+529111,46,39.425,1,no,CONNECTICUT,Urban,Master,Yes,Not-Active,Not_Married,0,male
+9842,27,30.59,1,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,female
+12563,43,37.9,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+4132,28,17.195,2,yes,NEW YORK,Urban,Bachelor,No,Active,Married,0,female
+3613,19,20.425,0,no,NEW JERSEY,Urban,No College Degree,Yes,Not-Active,Married,0,male
+85612,20,29.6,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,1,female
+106211,58,27.94,1,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Married,0,male
+790111,63,29.92,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+281111,40,28.12,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+11942,49,36.575,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+76711,47,32.3,1,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,0,male
+11463,53,32.775,3,no,MASSACHUSETTS,Country,Bachelor,Yes,Not-Active,Married,0,male
+98221,35,21.375,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+6282,32,42.46,1,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Not_Married,0,male
+27212,51,34.2,2,yes,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+5072,23,31.35,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+86111,37,47.6,2,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+8363,41,35.97,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,1,male
+125521,34,27.72,0,no,MARYLAND,Country,Bachelor,Yes,Not-Active,Married,0,female
+8782,32,33.44,5,no,MASSACHUSETTS,Urban,PhD,No,Not-Active,Married,0,male
+7612,22,34.58,2,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+8452,52,30.495,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+10312,46,23.655,1,yes,NEW YORK,Urban,Master,No,Not-Active,Married,0,female
+6310,64,24.7,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,male
+84811,24,50.38,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+98111,53,29.64,1,no,CONNECTICUT,Urban,Bachelor,No,Active,Married,0,male
+1451,29,28.69,3,yes,NEW YORK,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+11332,59,40.28,0,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,male
+15011,18,28.4,1,no,NEW YORK,Country,Bachelor,No,Not-Active,Not_Married,0,male
+10893,52,47.74,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,male
+90321,26,27.265,3,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,male
+12902,44,34.32,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,male
+95911,43,34.96,1,yes,MASSACHUSETTS,Country,Master,No,Not-Active,Not_Married,0,male
+6732,35,29.7,0,no,CONNECTICUT,Country,Bachelor,No,Active,Married,0,male
+8262,66,31.825,2,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Not_Married,0,female
+30721,27,27.5,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+4963,20,27.93,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,1,male
+81211,32,42.94,3,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+54021,52,31.35,0,no,NEW YORK,Urban,PhD,No,Active,Married,0,male
+1344,19,25.555,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+58712,21,20.235,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+21131,60,36.005,0,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,female
+96012,49,36.67,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+60612,51,34.1,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+200111,64,39.33,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+8312,22,37.62,1,yes,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,male
+56311,26,30.5,0,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Not_Married,0,male
+97011,40,34.32,5,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,1,female
+3261,41,34.105,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+6422,40,28.31,3,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+60011,52,37.525,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+9033,25,27.265,3,no,CONNECTICUT,Urban,Bachelor,Yes,Active,Not_Married,0,male
+477111,24,28.5,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,male
+12932,21,23.21,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+5882,34,30.21,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,1,female
+87121,57,31.16,0,yes,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Not_Married,0,female
+846111,60,32.45,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+201011,31,35.3,0,yes,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+9181,44,22.895,0,yes,NEW JERSEY,Urban,Master,Yes,Not-Active,Married,0,male
+40102,61,39.9,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+12541,40,29.3,4,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+854111,55,23.75,2,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Married,0,female
+3672,55,32.3,3,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+6914,19,27.36,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+1155111,48,27.93,4,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,1,female
+80121,41,32.965,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+9451,61,39.93,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+24101,34,31.92,1,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+12442,28,33.11,0,no,CONNECTICUT,Urban,Bachelor,No,Active,Married,0,female
+1129111,34,32.8,1,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Not_Married,0,male
+13052,43,24.605,2,yes,PENNSYLVANIA,Urban,PhD,No,Active,Married,0,male
+2442,40,35.3,3,no,NEW YORK,Country,Bachelor,No,Active,Married,0,male
+24611,55,30.02,0,no,RHODE ISLAND,Country,Bachelor,Yes,Not-Active,Married,0,male
+66101,18,28.9,0,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Not_Married,1,female
+10742,53,28.88,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+11353,27,33.82,0,no,RHODE ISLAND,Urban,PhD,No,Not-Active,Married,0,male
+107011,52,31.9,1,no,PENNSYLVANIA,Urban,Master,Yes,Active,Not_Married,0,female
+12202,37,30.21,3,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,1,female
+53312,58,29.7,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+57311,28,43.12,2,no,PENNSYLVANIA,Country,No College Degree,No,Active,Not_Married,0,female
+69311,20,32.395,1,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+7091,31,30.495,3,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+36712,56,32.3,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+4092,37,21.12,3,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Not_Married,0,male
+12232,49,25.3,0,no,NEW YORK,Country,Master,No,Not-Active,Married,0,male
+2031,61,24.035,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+4973,32,23.6,2,no,MARYLAND,Urban,No College Degree,No,Not-Active,Married,0,female
+11272,54,29.9,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,male
+11731,55,41.91,0,no,RHODE ISLAND,Urban,Bachelor,Yes,Active,Married,0,female
+2082,36,27.74,2,yes,PENNSYLVANIA,Country,No College Degree,No,Active,Not_Married,0,male
+3462,34,29.26,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+129921,33,27.455,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+79911,58,33.1,0,no,PENNSYLVANIA,Country,Master,Yes,Active,Married,0,female
+210111,39,41.23,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+4673,61,28.7,1,no,RHODE ISLAND,Country,Bachelor,Yes,Not-Active,Married,0,female
+127621,57,23.7,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+11501,43,34.1,0,no,NEW JERSEY,Urban,No College Degree,No,Active,Married,0,male
+56411,51,44.77,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,1,male
+101712,19,24.605,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+8113,47,30.8,3,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+81811,23,37.1,3,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+42521,48,30.2,2,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,male
+52101,21,33.63,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+9333,45,25.8,5,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+56512,18,32.12,2,no,MARYLAND,Country,Master,No,Not-Active,Married,0,female
+798111,31,22.895,1,no,MARYLAND,Urban,PhD,No,Not-Active,Married,0,female
+45721,55,30.14,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+116011,32,41.1,0,no,MARYLAND,Country,Bachelor,No,Not-Active,Not_Married,0,female
+96712,52,24.795,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+43511,31,28.595,1,no,RHODE ISLAND,Country,Master,No,Not-Active,Married,1,male
+56711,39,40.565,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+1142111,41,32.6,3,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,female
+38912,26,22.61,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+7214,30,28.5,5,no,NEW YORK,Country,No College Degree,No,Active,Not_Married,0,male
+84621,61,32.45,0,yes,MARYLAND,Urban,Master,No,Active,Married,0,female
+123421,57,23.3,0,no,MASSACHUSETTS,Country,Master,No,Not-Active,Not_Married,0,male
+6183,50,25.6,2,yes,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+44611,45,33.1,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+67102,63,39.1,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+9413,19,23.21,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+1151111,18,30.305,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+54311,63,36.3,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+128101,53,37.4,0,no,MARYLAND,Urban,PhD,Yes,Active,Married,1,female
+7882,20,36.86,0,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,0,male
+10062,28,31.73,2,no,MARYLAND,Urban,Master,Yes,Not-Active,Married,0,male
+1280111,25,26.79,2,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+11171,40,29.64,5,no,RHODE ISLAND,Urban,Master,No,Not-Active,Married,0,male
+372111,57,22.23,0,no,RHODE ISLAND,Urban,Bachelor,No,Active,Married,1,female
+2722,51,34.2,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+6542,45,36.3,2,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,0,female
+4210,32,36.63,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+1613,20,24.6,1,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Not_Married,0,male
+9614,19,39.615,1,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Not_Married,0,female
+6493,18,28.5,0,no,MARYLAND,Urban,PhD,Yes,Active,Not_Married,0,male
+69911,55,33.725,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+2411,34,31.92,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+13062,24,27.72,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+46812,56,33.82,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+45911,56,39.6,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,0,male
+1190111,22,28,0,no,NEW YORK,Urban,Master,No,Active,Married,1,female
+51011,57,28.7,0,no,RHODE ISLAND,Country,Bachelor,No,Active,Married,0,female
+12132,18,21.47,0,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,male
+104121,34,28.025,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+121712,39,25.08,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+572111,18,37.29,1,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+89712,43,20.045,2,yes,NEW JERSEY,Urban,Master,No,Not-Active,Married,0,female
+688111,41,41.69,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+5322,62,31.73,0,no,MASSACHUSETTS,Country,PhD,Yes,Not-Active,Married,1,female
+69812,40,35.75,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+689111,47,24.1,1,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Not_Married,0,female
+4914,60,24.53,0,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,female
+8342,57,34.39,0,no,MARYLAND,Urban,Master,No,Active,Married,0,male
+85911,26,32.23,1,no,NEW YORK,Urban,Master,Yes,Active,Married,0,female
+132213,62,26.695,0,yes,MARYLAND,Urban,PhD,No,Not-Active,Married,0,male
+66213,57,23.98,1,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,0,female
+41101,24,26.6,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+4583,57,30.495,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+565112,18,32.12,2,no,RHODE ISLAND,Urban,Bachelor,Yes,Active,Married,0,female
+124311,22,21.28,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,female
+55121,64,30.8,0,no,RHODE ISLAND,Country,No College Degree,Yes,Active,Married,0,male
+70011,24,39.27,2,no,CONNECTICUT,Country,Master,No,Not-Active,Married,1,female
+10514,45,36.955,1,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Not_Married,0,female
+4410,38,30.8,2,no,PENNSYLVANIA,Urban,Master,Yes,Active,Married,1,female
+668121,40,32.775,2,yes,RHODE ISLAND,Country,Bachelor,No,Active,Married,0,female
+104111,35,28.025,0,yes,NEW YORK,Country,Bachelor,Yes,Active,Married,0,female
+75111,38,26.4,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+115512,48,27.93,4,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+11241111,26,32.395,1,no,RHODE ISLAND,Urban,Master,Yes,Not-Active,Married,0,female
+89511,60,32.11,0,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+10403,19,27.265,2,no,RHODE ISLAND,Urban,Master,No,Not-Active,Not_Married,1,male
+934211,46,35.3,0,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+5614,59,36.955,2,yes,NEW YORK,Urban,Master,No,Not-Active,Not_Married,1,male
+4933,18,25.08,0,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,0,female
+45421,20,29.735,0,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+2091111,64,31.8,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+13033,24,20.8,1,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,1,female
+88113,22,34.8,3,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,male
+2951,25,26.8,3,no,CONNECTICUT,Urban,Master,Yes,Active,Married,0,male
+13073,28,21.85,0,yes,RHODE ISLAND,Urban,Master,No,Not-Active,Married,0,female
+16322,54,39.6,1,no,RHODE ISLAND,Urban,Bachelor,Yes,Active,Not_Married,0,male
+10283,22,18.715,0,no,RHODE ISLAND,Country,Bachelor,Yes,Not-Active,Not_Married,0,male
+106101,19,28.025,1,yes,MARYLAND,Urban,Master,No,Active,Married,0,male
+488121,18,28.7,0,no,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,male
+20311,60,24.035,0,no,NEW JERSEY,Urban,PhD,No,Not-Active,Married,1,female
+6213,26,33.66,4,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+444111,60,36.52,1,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+1793,46,28.9,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+8632,56,33.535,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+7621111,24,35.2,1,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Not_Married,0,male
+177112,39,27.835,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+127712,21,30.4,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+1372,19,34.1,0,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+81621,20,31.46,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+88022,37,29.5,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+596211,47,33.725,1,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+61211,38,34.8,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+6554,60,35.2,0,no,NEW JERSEY,Country,Bachelor,No,Active,Married,0,female
+336111,64,34.5,0,no,NEW YORK,Urban,PhD,No,Not-Active,Married,1,male
+47231,19,30.115,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,female
+54221,22,31.79,2,no,MARYLAND,Urban,No College Degree,No,Not-Active,Married,1,female
+103121,46,27.1225,1,yes,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,0,female
+83821,56,28.31,0,no,CONNECTICUT,Country,Bachelor,No,Active,Married,0,female
+6801,48,23.18,2,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,female
+77212,55,26.7,2,no,RHODE ISLAND,Country,Bachelor,No,Active,Married,0,female
+10173,19,24.605,1,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,female
+53812,46,30.2,2,no,NEW JERSEY,Urban,Bachelor,No,Active,Married,0,female
+59131,58,29,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+92131,54,24.795,1,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+213111,24,28.5,2,no,CONNECTICUT,Urban,No College Degree,Yes,Not-Active,Not_Married,1,male
+10063,28,31.73,2,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Not_Married,1,male
+111211,38,38.39,3,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,1,male
+44212,33,33.5,0,yes,CONNECTICUT,Country,Master,No,Not-Active,Married,0,female
+1217121,40,25.08,0,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,male
+25812,38,40.15,0,no,NEW JERSEY,Urban,Master,No,Active,Not_Married,1,female
+67312,35,29.7,0,no,NEW JERSEY,Country,Master,No,Not-Active,Married,1,male
+87911,41,28.8,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+241011,34,31.92,1,yes,NEW JERSEY,Urban,Bachelor,Yes,Active,Not_Married,0,female
+21221,40,30.875,4,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+33011,53,36.7,0,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Married,0,male
+21012,39,41.23,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+98612,43,25.8,1,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+6721,28,31.16,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+6004,53,37.525,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+12241,21,24.42,0,yes,CONNECTICUT,Country,Bachelor,No,Not-Active,Not_Married,0,female
+13081,31,28.12,4,yes,MASSACHUSETTS,Country,Master,No,Active,Not_Married,0,male
+73721,36,38.39,0,yes,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+3971,44,34.4,3,no,MARYLAND,Urban,Bachelor,Yes,Active,Married,0,female
+11012,33,19.095,2,yes,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,0,female
+12564,42,37.9,0,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Not_Married,0,female
+1733,18,15.96,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+18612,36,41.895,3,yes,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,male
+123612,25,31.065,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+6184,49,30.315,2,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+2191,25,29.92,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,1,female
+3923,20,37.43,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+84622,61,32.45,0,yes,NEW JERSEY,Country,Bachelor,No,Not-Active,Not_Married,0,female
+84121,19,31.1,0,no,RHODE ISLAND,Urban,Master,Yes,Not-Active,Married,0,male
+591211,52,22.88,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+86821,56,43.7,1,no,CONNECTICUT,Country,Master,No,Active,Married,0,male
+12213,18,23.75,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+52921,48,39.425,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+116113,42,34.58,1,no,NEW JERSEY,Urban,Bachelor,No,Active,Married,0,female
+114731,60,32.8,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+9615,27,37.62,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+91211,18,31.73,0,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+6681111,40,32.775,2,yes,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+49721,30,23.6,2,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,0,female
+102711,20,26.03,1,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,1,male
+77121,30,29.59,1,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Married,0,female
+38521,44,22.135,2,no,CONNECTICUT,Country,Master,Yes,Not-Active,Not_Married,0,male
+1160111,31,41.1,0,no,MARYLAND,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+583111,38,45.43,2,no,CONNECTICUT,Urban,Bachelor,Yes,Active,Not_Married,0,male
+21132,61,36.005,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+4213,65,33.88,0,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+51112,55,32.11,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+4802,22,32.56,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+82912,41,30.78,3,yes,PENNSYLVANIA,Country,Master,No,Active,Not_Married,0,male
+17713,37,27.835,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+11354,27,33.82,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,1,male
+6442,23,34.96,3,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,female
+275112,25,27.55,0,no,PENNSYLVANIA,Country,PhD,No,Active,Married,0,male
+96212,30,25.9,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+8474,49,34.2,1,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Not_Married,0,female
+22103,31,32.4,1,no,CONNECTICUT,Urban,Master,Yes,Not-Active,Not_Married,0,female
+2751111,24,27.55,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+12054,18,27.28,3,yes,NEW YORK,Urban,Bachelor,No,Active,Not_Married,0,female
+557121,46,33.44,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+194111,54,26.6,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+41821,37,22.6,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+11421111,40,32.6,3,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,female
+1166111,34,26.125,0,no,MASSACHUSETTS,Country,Bachelor,No,Active,Married,0,female
+8032,19,22.3,1,no,PENNSYLVANIA,Urban,PhD,No,Active,Not_Married,0,male
+328121,44,36.48,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+5203,32,30.875,0,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,1,male
+129212,20,34.9,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+10941,23,30.4,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+7081111,49,28.69,3,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,1,male
+150111,19,28.4,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+2913,23,17.385,1,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Not_Married,0,male
+227111,29,38.06,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+113612,50,28.12,3,no,PENNSYLVANIA,Country,PhD,No,Active,Married,1,female
+1083111,38,19.95,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+107021,54,31.9,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+62921,57,38,0,no,MARYLAND,Country,No College Degree,No,Active,Married,0,male
+77112,61,36.1,3,no,RHODE ISLAND,Country,No College Degree,No,Not-Active,Not_Married,0,male
+5682,40,30.59,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+21421,34,26.73,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+696121,26,40.185,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+1050112,49,30.9,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+380111,62,31.46,1,no,PENNSYLVANIA,Urban,PhD,Yes,Not-Active,Married,0,male
+129121,33,17.765,2,yes,PENNSYLVANIA,Country,PhD,Yes,Not-Active,Married,0,female
+7234,62,37.4,0,no,CONNECTICUT,Country,Master,No,Active,Married,1,male
+89112,64,26.885,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+68821,41,41.69,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,male
+127322,43,25.52,5,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+8193,47,26.125,1,yes,MASSACHUSETTS,Country,Bachelor,Yes,Not-Active,Not_Married,1,female
+535121,63,40.48,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+54711,28,35.435,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+13273,41,32.87,0,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,female
+12142,51,33.3,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+791021,20,39.805,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+950121,26,29.7,3,yes,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+13010111,39,34.7,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+1104211,58,36.08,0,no,NEW YORK,Urban,Bachelor,Yes,Active,Married,0,male
+3163,52,33.25,0,no,CONNECTICUT,Urban,Master,No,Not-Active,Not_Married,0,male
+7184,60,24.32,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+11972,20,30.02,0,yes,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,female
+67131,61,39.1,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+123821,58,28.215,0,no,NEW JERSEY,Urban,Master,No,Active,Not_Married,1,female
+6815,40,26.315,1,no,NEW YORK,Urban,Master,No,Active,Not_Married,0,male
+109312,23,32.7,3,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,1,male
+87612,24,28.12,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+8164,20,31.46,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+331011,18,28.6,5,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+79321,22,23.18,0,no,CONNECTICUT,Urban,Master,No,Active,Not_Married,0,female
+50012,62,39.2,0,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,female
+131013,41,32.2,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+60411,63,39.05,3,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Not_Married,1,female
+9472,42,35.8,2,no,MASSACHUSETTS,Country,Bachelor,Yes,Not-Active,Married,0,male
+111122,55,32.3,1,no,PENNSYLVANIA,Country,Master,No,Active,Not_Married,0,female
+9644,46,24.795,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+129312,21,23.21,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,1,male
+1021211,30,25.46,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+880211,37,29.5,2,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,1,female
+60311,56,25.3,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+881011,56,27.2,0,no,MARYLAND,Urban,Master,No,Not-Active,Married,0,female
+112211,47,38.17,2,no,NEW YORK,Urban,Master,No,Active,Married,0,male
+9616,18,39.615,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+9932,50,31.6,2,no,MASSACHUSETTS,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+2052,45,22.3,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+83321,29,23.845,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+3134,43,35.97,3,yes,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,male
+997112,41,34.1,3,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,0,female
+211311,60,36.005,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+1238111,56,28.215,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+11022,53,28.6,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+694111,25,23.655,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+12584,54,27.645,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+6673,48,28.7,1,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+51711,20,35.31,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,male
+780111,53,28.88,0,no,NEW JERSEY,Urban,Bachelor,No,Active,Married,0,male
+1299211,34,27.455,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+47921,21,36.85,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+1414,34,22.42,2,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Married,0,male
+111111,54,32.3,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+22831,60,41.91,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+16012,50,27.83,3,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+27022,49,25.84,1,no,NEW YORK,Country,Bachelor,No,Active,Married,0,male
+7413,44,24.035,2,no,MASSACHUSETTS,Urban,No College Degree,No,Not-Active,Married,0,male
+993111,50,31.6,2,no,RHODE ISLAND,Urban,PhD,No,Not-Active,Married,0,female
+1124112,28,32.395,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+61522,20,33,0,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+86712,19,37.29,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+115311,43,32.56,3,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+4383,36,29.1125,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+920111,35,34.21,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+66512,64,22.99,0,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+106411,36,28.595,3,no,MASSACHUSETTS,Urban,Bachelor,Yes,Active,Married,0,male
+12322,19,21.8,0,yes,PENNSYLVANIA,Urban,PhD,No,Active,Not_Married,0,female
+47122,27,32.67,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+39101,35,36.67,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+103413,18,21.565,0,yes,MARYLAND,Country,PhD,No,Not-Active,Not_Married,0,male
+65531,60,35.2,0,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,female
+12233,50,25.3,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+2291,42,31.635,1,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+119412,49,36.575,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+1151112,18,30.305,0,no,RHODE ISLAND,Urban,Master,No,Not-Active,Married,0,female
+8102,26,25.84,1,no,NEW YORK,Country,Master,Yes,Active,Married,1,male
+120911,36,25.555,1,yes,PENNSYLVANIA,Country,PhD,No,Not-Active,Not_Married,0,female
+3031,56,37.51,2,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+1873,26,29.92,2,no,MARYLAND,Country,Master,No,Not-Active,Married,1,female
+436112,61,33.11,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+1023211,47,36.08,1,yes,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+25921,51,24.415,4,no,RHODE ISLAND,Urban,Master,No,Not-Active,Not_Married,0,male
+46511,20,25.175,0,no,PENNSYLVANIA,Urban,PhD,Yes,Active,Married,0,male
+8851,25,29.2125,4,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+13012,47,30.36,0,yes,NEW YORK,Urban,Master,No,Not-Active,Not_Married,0,male
+38012,61,31.46,1,no,NEW JERSEY,Urban,Master,Yes,Not-Active,Married,0,male
+36313,19,21.7,0,yes,NEW JERSEY,Urban,PhD,No,Not-Active,Not_Married,0,female
+455111,32,46.53,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+127931,39,29.925,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+114812,20,31.92,0,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Not_Married,1,female
+77312,42,36.48,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+20103,29,35.3,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+17121,63,41.47,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,male
+7132,42,30.685,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+12192,46,34.6,1,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,female
+78712,60,36.955,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+1170111,37,34.105,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+66521,62,22.99,0,yes,MASSACHUSETTS,Urban,PhD,No,Active,Not_Married,1,female
+132521,31,25.935,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+46813,57,33.82,2,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,female
+39412,48,31.35,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+83612,43,35.97,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+2382,31,38.39,2,no,PENNSYLVANIA,Urban,PhD,No,Active,Married,0,male
+15812,19,25.175,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+3651,21,21.89,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+67621,46,21.375,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,1,male
+104621,43,34.1625,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+1913,55,40.3,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+1110111,44,20.35,3,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,male
+319121,44,27.645,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+10051,49,19.19,1,no,MARYLAND,Country,Bachelor,No,Active,Married,0,male
+15121,36,24.13,1,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Not_Married,0,male
+459111,57,39.6,0,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Not_Married,0,male
+1634,55,39.6,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+5862,32,28.27,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,female
+125631,42,37.9,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+47631,61,28.31,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+698112,42,35.75,1,yes,NEW YORK,Urban,No College Degree,Yes,Active,Married,1,male
+20112,18,32.11,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,female
+26331,50,24.32,3,yes,CONNECTICUT,Urban,Master,Yes,Not-Active,Not_Married,0,male
+436121,59,33.11,3,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,1,male
+543111,65,36.3,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+93213,39,32.5,1,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,female
+7110,27,24.75,0,yes,MARYLAND,Urban,PhD,Yes,Not-Active,Not_Married,0,female
+8683,58,43.7,1,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,1,male
+5473,29,35.435,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+8133,53,21.01,2,no,MARYLAND,Urban,Bachelor,No,Active,Not_Married,0,male
+615112,22,33,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+75411,57,22.77,0,no,NEW JERSEY,Urban,Master,No,Not-Active,Not_Married,1,female
+106021,32,33.82,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+9151,32,24.605,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+2254,43,24.64,0,yes,RHODE ISLAND,Urban,No College Degree,No,Active,Not_Married,0,male
+66122,37,46.53,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+12123,39,34.1,2,no,MARYLAND,Urban,Bachelor,Yes,Active,Married,1,male
+12133,18,21.47,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+12201111,37,30.21,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+389111,27,22.61,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+560211,19,35.53,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+601111,18,39.16,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+71001,47,33.44,1,no,CONNECTICUT,Urban,PhD,No,Not-Active,Married,0,female
+2610,60,27.72,3,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,female
+87711,49,27.1,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+69421,23,23.655,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1663,47,28.215,4,no,MASSACHUSETTS,Urban,Bachelor,Yes,Active,Not_Married,0,male
+13711,19,34.1,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+3842,35,43.34,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+132911,23,24.225,2,no,MASSACHUSETTS,Country,Master,No,Not-Active,Married,0,female
+101413,47,32.3,1,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,male
+242111,34,22.135,1,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,0,female
+11362,50,28.12,3,no,CONNECTICUT,Urban,Master,Yes,Not-Active,Not_Married,1,female
+591121,58,29,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+14131,34,22.42,2,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+104721,43,25.08,0,no,NEW YORK,Urban,Master,No,Active,Married,0,female
+5821111,18,30.59,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+676111,45,21.375,0,no,RHODE ISLAND,Urban,Master,Yes,Not-Active,Married,0,male
+63521,51,39.7,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+4192,63,39.16,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,1,male
+105312,50,29.83,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+43221,29,20.235,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+6910111,40,36.19,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+9452,63,39.93,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+272111,50,34.2,2,yes,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,male
+57611,57,27.17,0,no,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,female
+5841,32,23.65,1,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Not_Married,1,female
+10714,36,37.07,1,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+126711,53,30.5,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+5291111,47,39.425,1,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,0,male
+963111,63,35.2,1,no,CONNECTICUT,Country,Master,No,Not-Active,Married,1,female
+984121,26,30.59,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,female
+85821,27,24.13,0,yes,MASSACHUSETTS,Urban,No College Degree,Yes,Not-Active,Married,0,male
+86421,36,19.855,0,no,PENNSYLVANIA,Urban,Master,No,Active,Married,1,female
+8372,36,31.5,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+94511,63,39.93,0,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,male
+108921,54,47.74,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+8103,36,27.74,3,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,female
+13352,19,31.92,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+88141,23,34.8,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+4502,35,38.6,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+9944,39,28.27,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+129911,32,27.455,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+7643,27,26.03,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+148211,51,37.73,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,1,female
+314121,49,35.86,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+11491111,56,21.5,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+12254,41,23.94,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+8721,26,29.48,1,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+2492,20,20.9,1,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,male
+10084,47,28.215,3,yes,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,1,male
+76311,34,27.1,1,yes,MARYLAND,Urban,Bachelor,No,Active,Not_Married,0,male
+18721,26,29.92,2,no,PENNSYLVANIA,Urban,PhD,Yes,Not-Active,Married,0,female
+497111,31,23.6,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+688121,40,41.69,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,male
+72412,18,35.4,0,no,NEW YORK,Country,Bachelor,Yes,Not-Active,Not_Married,1,male
+9553,34,27.835,1,yes,CONNECTICUT,Country,Master,No,Not-Active,Not_Married,0,male
+395111,45,32.3,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+60921,27,26.98,2,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,male
+21122,20,33,1,no,NEW YORK,Urban,Bachelor,No,Active,Married,0,male
+74612,52,30.115,1,no,MASSACHUSETTS,Country,Bachelor,Yes,Not-Active,Not_Married,0,female
+4314,19,33.1,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+5114,18,35.625,0,no,MARYLAND,Country,No College Degree,Yes,Active,Not_Married,0,female
+69711,52,32.3,2,no,MASSACHUSETTS,Country,Bachelor,Yes,Not-Active,Married,0,female
+591112,59,29,0,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Not_Married,0,female
+124812,32,29.4,4,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+53821,47,30.51,2,no,NEW YORK,Country,PhD,Yes,Not-Active,Not_Married,0,female
+127812,33,29.735,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+71311,43,30.685,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+39222,19,37.43,0,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,female
+44112,30,32.68,1,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,female
+1135112,29,33.82,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+351111,58,23.18,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+105411,46,29.8,3,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+686121,53,26.41,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+1296111,20,22,1,no,RHODE ISLAND,Urban,Master,No,Not-Active,Not_Married,0,male
+124421,30,33.11,0,no,CONNECTICUT,Urban,No College Degree,No,Not-Active,Married,0,female
+95811,23,26.79,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+2243,18,34.8,0,yes,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,male
+127122,27,33.915,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+89713,43,20.045,2,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+5141111,20,30.4,0,no,NEW JERSEY,Urban,Master,No,Not-Active,Married,0,male
+31011,40,33.06,2,no,RHODE ISLAND,Country,Bachelor,Yes,Not-Active,Married,0,female
+70821,49,28.69,3,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+90211,60,40.92,0,yes,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+81122,45,30.8,3,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,1,female
+87111,51,36.2,0,no,MARYLAND,Urban,Master,No,Active,Not_Married,1,male
+60021,52,37.525,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+1164211,18,28.215,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,female
+32522,29,27.2,0,no,PENNSYLVANIA,Country,No College Degree,Yes,Not-Active,Married,0,male
+602111,52,31.635,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+1221021,18,23.75,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+7215,30,28.5,5,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+316211,53,33.25,0,no,NEW YORK,Urban,Bachelor,No,Active,Not_Married,0,male
+493112,18,25.08,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+3052,59,38,2,no,CONNECTICUT,Urban,Bachelor,No,Active,Married,0,female
+654111,46,36.3,2,no,RHODE ISLAND,Country,Bachelor,No,Not-Active,Married,0,female
+1161211,43,34.58,1,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,1,female
+77611,50,33.33,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+4784,26,35.625,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+9515,57,18.335,0,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,0,male
+5532,61,21.4,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+120111,38,24.32,2,no,MARYLAND,Country,Master,Yes,Not-Active,Married,1,male
+28411,54,32.395,1,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,female
+12952,57,25.175,0,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Not_Married,1,male
+1363,19,28.05,0,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+4781111,24,35.625,0,no,PENNSYLVANIA,Urban,PhD,Yes,Not-Active,Married,0,male
+13203,38,26.315,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,female
+63022,45,38.95,0,yes,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Not_Married,1,female
+892111,35,29.04,4,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+11781,41,27.4,1,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+71811,60,24.32,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+831011,23,37.62,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+2812,56,32.775,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+1041011,59,29.92,3,yes,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+116422,18,28.215,0,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,0,female
+1771111,38,27.835,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+671012,62,39.1,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+8763,23,28.12,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+74731,34,27,2,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+30212,54,22.61,3,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+208121,36,27.74,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+765211,43,25.175,2,no,NEW JERSEY,Urban,Master,No,Not-Active,Not_Married,0,female
+439111,52,46.75,5,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+11752,29,32.11,2,no,MARYLAND,Urban,PhD,No,Not-Active,Married,0,male
+325112,28,27.2,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+842111,57,24.7,0,no,RHODE ISLAND,Urban,Master,Yes,Active,Married,0,male
+6042,63,39.05,3,no,MARYLAND,Urban,PhD,No,Not-Active,Not_Married,0,female
+81011,25,25.84,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+47222,18,30.115,0,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+71012,35,27.74,0,no,RHODE ISLAND,Urban,PhD,No,Not-Active,Not_Married,0,female
+198111,47,28.6,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+8171,24,24.225,0,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,1,female
+8931,54,24.035,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+3863,19,34.4,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+44911,39,29.6,0,no,CONNECTICUT,Urban,Bachelor,No,Active,Married,0,female
+122712,37,16.815,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+15911,30,35.53,0,yes,MASSACHUSETTS,Country,Bachelor,Yes,Not-Active,Married,1,male
+5584,33,34.21,0,no,NEW JERSEY,Country,PhD,No,Active,Married,0,male
+35721,46,43.89,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+656111,53,25.3,2,yes,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,female
+10081111,47,28.215,3,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+711112,18,35.2,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+630211,44,38.95,0,yes,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,0,female
+6333,29,31.255,0,no,PENNSYLVANIA,Urban,PhD,No,Active,Married,1,female
+78511,31,29.26,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+542121,20,31.79,2,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,female
+3262,41,34.105,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+103112,45,23.655,1,yes,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+4883,18,28.7,0,no,NEW JERSEY,Urban,Bachelor,No,Active,Not_Married,0,male
+73122,34,24.42,3,yes,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+7482,18,21.755,0,no,PENNSYLVANIA,Urban,No College Degree,Yes,Active,Married,0,male
+63101,63,24.7,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+2123,38,30.875,4,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+84101,49,41.23,4,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Married,0,female
+357111,46,43.89,3,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+55511,25,41.325,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+121321,20,21.47,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+2373,18,26.73,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,female
+35811,46,29.83,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+2754,25,27.55,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,male
+131621,18,28.31,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+13132,34,42.9,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+57012,47,40.565,2,yes,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+1814,23,29.26,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+5463,48,25.84,2,yes,CONNECTICUT,Country,Bachelor,No,Not-Active,Married,0,male
+53213,60,31.73,0,no,CONNECTICUT,Country,No College Degree,No,Not-Active,Not_Married,0,female
+1185111,23,28.49,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+115912,20,30.59,0,no,NEW YORK,Urban,No College Degree,Yes,Not-Active,Not_Married,0,female
+976112,30,22.895,0,yes,CONNECTICUT,Country,Bachelor,No,Not-Active,Not_Married,0,male
+50621,37,30.875,3,no,MARYLAND,Country,Bachelor,Yes,Not-Active,Married,0,male
+10033,25,25.8,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+17312,18,15.96,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+132411,41,40.37,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+71822,60,24.32,1,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,1,male
+4964,20,27.93,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+36721,56,32.3,3,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,0,female
+135211,19,28.785,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Not_Married,1,female
+121821,30,37.29,2,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,male
+616111,45,36.63,1,yes,MARYLAND,Urban,Master,No,Not-Active,Not_Married,0,female
+760111,18,38.17,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+112111,55,29.7,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+109021,57,22.1,0,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,1,male
+17912,45,28.9,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+65151,47,42.68,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+11714,18,27.36,1,yes,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+8231111,18,31.13,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+7441,31,26.62,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+854112,53,23.75,2,no,MARYLAND,Urban,Master,No,Not-Active,Not_Married,0,female
+378111,23,40.15,0,yes,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+117612,22,27.1,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+108912,51,47.74,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+70022,23,39.27,2,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+81521,36,34.43,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+17211,48,30.3,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+6763,46,21.375,0,no,MASSACHUSETTS,Urban,Master,Yes,Not-Active,Married,0,male
+98313,31,25.9,3,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+44711,59,29.64,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+74011,29,35.5,2,yes,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+89131,64,26.885,0,yes,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Not_Married,0,female
+813121,55,21.01,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+926121,50,32.11,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,male
+49221,61,25.08,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+5274,19,30.59,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+6324,24,29.3,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+12542,40,29.3,4,no,NEW YORK,Urban,Bachelor,No,Active,Not_Married,0,female
+3283,44,36.48,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+9672,51,24.795,2,yes,NEW JERSEY,Country,Bachelor,No,Active,Married,0,male
+13412,18,25.555,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,1,male
+7114,18,35.2,1,no,MARYLAND,Urban,Master,No,Not-Active,Married,0,male
+105012,49,30.9,0,yes,MARYLAND,Country,No College Degree,Yes,Not-Active,Not_Married,0,male
+34831,47,33.345,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+432112,28,20.235,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+121722,40,25.08,0,no,NEW YORK,Urban,Master,No,Not-Active,Not_Married,0,male
+141111,35,22.42,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+98421,28,30.59,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+34712,33,35.75,2,no,NEW YORK,Urban,No College Degree,Yes,Not-Active,Married,1,male
+11721,42,26.7,2,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,1,female
+867111,18,37.29,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1152111,58,36.48,0,no,MARYLAND,Country,PhD,Yes,Not-Active,Married,0,female
+7492,47,36,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,1,female
+711121,18,35.2,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+126822,25,31.065,0,yes,PENNSYLVANIA,Urban,No College Degree,Yes,Active,Not_Married,1,male
+23911,19,29.07,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+92613,50,32.11,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+532112,63,31.73,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+88122,22,34.8,3,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+721211,30,28.5,5,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+36021,18,20.79,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+4254,48,30.2,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+48121,30,34.77,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+16331,54,39.6,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+646111,48,30.78,3,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+37411,25,32.9,2,yes,NEW YORK,Urban,Bachelor,No,Active,Married,1,male
+691111,21,27.36,0,no,RHODE ISLAND,Country,Bachelor,Yes,Active,Not_Married,0,male
+90721,26,32.585,3,no,MARYLAND,Urban,No College Degree,No,Not-Active,Not_Married,1,male
+48912,45,38.06,0,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+628112,32,42.46,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+96912,21,25.745,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+8011111,42,26.18,1,no,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,female
+472311,18,30.115,0,no,RHODE ISLAND,Urban,Bachelor,No,Active,Not_Married,1,female
+301031,33,36.3,2,yes,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,male
+81141,32,26.885,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+1301013,39,34.7,2,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+745111,50,26.41,0,no,MARYLAND,Urban,Master,Yes,Not-Active,Not_Married,0,male
+1309111,26,30.2,0,yes,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+114411,39,32.34,2,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+12291111,54,34.43,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+1092311,56,29.83,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+124912,19,39.82,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+797112,31,44.22,2,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+341211,63,28.31,0,no,MASSACHUSETTS,Country,PhD,Yes,Not-Active,Not_Married,0,male
+8112111,48,30.8,3,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,female
+12204,38,30.21,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+1231121,52,34.485,3,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+1275212,28,27.06,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+128811,36,25.9,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+35932,23,41.91,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+9516,65,31.3,2,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+4873,54,21.47,3,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,female
+4082,46,23.6,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+26631,45,42.35,3,yes,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+1292111,18,34.9,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+103221,55,35.2,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,1,female
+36511,21,21.89,2,no,CONNECTICUT,Country,Bachelor,Yes,Not-Active,Married,0,female
+510112,58,28.7,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+56611111,18,30.495,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,female
+4612,48,36.63,3,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,0,female
+11103,26,26.22,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,1,male
+103441,19,21.565,0,yes,NEW YORK,Urban,Master,No,Not-Active,Not_Married,0,male
+7222111,52,36.6,3,no,RHODE ISLAND,Country,Bachelor,No,Active,Married,0,male
+1269121,21,33.3,0,no,MARYLAND,Urban,Master,No,Not-Active,Married,0,female
+34631,32,29.8425,3,no,CONNECTICUT,Country,Master,Yes,Not-Active,Married,0,female
+3861111,20,34.4,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+201121,20,32.11,0,no,RHODE ISLAND,Country,Bachelor,Yes,Active,Married,0,female
+6683,41,32.775,2,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+4143,24,23.9,5,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+106622,41,25.3,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+12744,36,27.61,1,no,PENNSYLVANIA,Urban,PhD,No,Active,Married,0,male
+722212,53,36.6,3,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+108013,64,33.66,3,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,1,male
+591221,54,22.88,1,yes,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,female
+7315,34,24.42,3,yes,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,1,male
+481012,29,34.77,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+107931,28,31.68,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+2033,60,24.035,0,no,NEW YORK,Urban,No College Degree,No,Not-Active,Married,0,female
+41151,18,17.48,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+11933,58,32.395,1,no,PENNSYLVANIA,Country,Master,Yes,Active,Married,0,female
+11841111,49,27.36,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+4632,62,38.095,2,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+1764,63,37.7,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+6014,19,39.16,0,no,NEW JERSEY,Urban,PhD,No,Not-Active,Married,0,female
+657121,27,42.4,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+11914,49,27.17,0,no,CONNECTICUT,Urban,Master,No,Active,Married,0,female
+56712,38,40.565,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+7841111,51,27.6,1,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,0,female
+254211,27,30.3,3,no,MARYLAND,Urban,Master,No,Not-Active,Married,0,male
+129923,33,27.455,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+119011111,23,28,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+661212,37,46.53,3,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,1,male
+12201112,39,30.21,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+38421,34,43.34,2,no,RHODE ISLAND,Urban,Bachelor,No,Active,Not_Married,1,female
+27522,26,27.55,0,no,CONNECTICUT,Urban,Master,Yes,Not-Active,Married,0,male
+11100111,26,26.22,0,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Married,0,male
+455211,31,46.53,2,no,NEW YORK,Urban,Bachelor,No,Active,Married,1,male
+451221,40,29.6,4,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Not_Married,0,male
+77031,39,19.475,2,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+33712,60,25.74,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+179121,47,28.9,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+1291121,38,19.95,2,no,CONNECTICUT,Urban,No College Degree,Yes,Not-Active,Not_Married,1,female
+32523,28,27.2,0,no,RHODE ISLAND,Urban,Master,No,Active,Married,1,male
+155112,40,25.46,1,no,MARYLAND,Urban,Bachelor,Yes,Active,Married,0,female
+79012,63,29.92,0,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+1157121,20,44.88,0,yes,MARYLAND,Country,Bachelor,No,Active,Married,0,male
+102821,22,18.715,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+63122,54,36.1,1,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,male
+7005,21,39.27,2,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,0,female
+88212,24,27.36,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+105321,47,29.83,1,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+18811,31,30.9,3,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+2764,46,26.6,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+615113,20,33,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,female
+1684,32,33.155,3,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+7901111,63,29.92,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+331211,19,33.91666667,5,no,MASSACHUSETTS,Urban,Bachelor,Yes,Not-Active,Married,0,female
+82811,34,28.025,1,yes,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,male
+10181111,24,34.2,2,no,NEW JERSEY,Country,Master,Yes,Not-Active,Not_Married,1,female
+7924,21,27.6,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+80122,43,32.965,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+1014121,48,32.3,1,no,PENNSYLVANIA,Country,Master,No,Active,Not_Married,1,male
+84313,24,32.78,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+1269111,20,33.3,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+358111,47,29.83,3,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+47613,61,28.31,1,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+27222,50,34.2,2,yes,MASSACHUSETTS,Urban,Bachelor,Yes,Active,Married,0,male
+2093,64,31.8,0,no,CONNECTICUT,Urban,Master,Yes,Active,Not_Married,0,female
+1188121,62,32.68,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+693121,20,32.395,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+8813111,57,27.2,0,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Married,0,female
+70611,33,32.9,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,1,female
+5651111,18,32.12,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,female
+12953,59,25.175,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+3361111,63,34.5,0,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,male
+9781111,26,29.15,1,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,male
+5672111,36,40.565,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+3001111,48,28.88,1,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+12331,55,24.605,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+34713,34,35.75,2,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+9152,33,24.605,2,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,male
+121312,18,21.47,0,no,MASSACHUSETTS,Country,No College Degree,No,Active,Married,1,male
+89721,43,20.045,2,yes,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,female
+7981111,30,22.895,1,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,female
+103213,55,35.2,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+718311,59,24.32,1,no,CONNECTICUT,Urban,Bachelor,Yes,Active,Not_Married,0,male
+1217212,39,25.08,0,no,NEW JERSEY,Country,Bachelor,Yes,Not-Active,Married,0,male
+8481111,23,50.38,1,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,1,male
+3724,57,22.23,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+47123,26,32.67,0,no,NEW JERSEY,Urban,PhD,Yes,Not-Active,Married,0,male
+854122,52,23.75,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,female
+94611,57,35.8,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+6082,60,23.655,0,yes,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,female
+512211,26,33.66,0,no,MARYLAND,Country,Master,No,Not-Active,Married,1,male
+33822,62,27.55,1,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Not_Married,0,male
+917111,42,26.885,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+2612,59,27.72,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+10161111,59,25.46,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+92141,53,24.795,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+1561,45,39.52,0,no,MARYLAND,Urban,Master,No,Not-Active,Married,0,male
+127011,45,27.5,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+776111,50,33.33,3,no,PENNSYLVANIA,Urban,Master,Yes,Active,Married,1,male
+119222,41,21.755,1,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+9631111,63,35.2,1,no,NEW YORK,Urban,PhD,Yes,Not-Active,Married,0,female
+93214,39,32.5,1,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+5431111,65,36.3,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+201111,19,32.11,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,1,female
+1001111,30,22.99,2,yes,RHODE ISLAND,Urban,Bachelor,No,Active,Married,0,male
+1182112,24,29.925,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+105104,33,27.5,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,female
+13163,18,28.31,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,male
+24811,26,35.86,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+96013,47,36.67,1,no,NEW JERSEY,Urban,PhD,No,Active,Married,0,male
+18931,40,32.2,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+4324,27,20.235,2,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+7224,54,36.6,3,no,PENNSYLVANIA,Country,PhD,Yes,Active,Married,1,male
+53131,59,42.13,1,yes,MARYLAND,Country,Bachelor,No,Active,Married,0,male
+103101,18,30.115,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+3853,44,22.135,2,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Married,0,male
+13154,30,23.655,3,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+1151122,19,30.305,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+107122,38,37.07,1,yes,MASSACHUSETTS,Urban,Bachelor,No,Active,Married,0,male
+8932,55,24.035,0,no,CONNECTICUT,Urban,Master,No,Not-Active,Not_Married,1,male
+91712,43,26.885,0,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+1153111,43,32.56,3,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,female
+4201111,64,26.98,0,yes,MARYLAND,Country,Bachelor,No,Not-Active,Not_Married,1,female
+93121,59,29.83,3,yes,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,male
+52022,30,30.875,0,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,male
+33112,61,36.385,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,1,female
+342211,62,30.02,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+632112,23,29.3,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,male
+21332,23,28.5,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+357211,46,43.89,3,no,PENNSYLVANIA,Urban,Master,Yes,Active,Married,0,male
+110831,50,26.22,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+3703,18,30.4,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+1031211,45,23.655,1,yes,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+452121,30,24.13,1,no,PENNSYLVANIA,Country,Master,Yes,Not-Active,Married,0,male
+12612,33,28.215,0,no,CONNECTICUT,Urban,No College Degree,No,Not-Active,Married,0,female
+109321,22,32.7,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+172111,50,30.3,0,no,NEW JERSEY,Urban,Master,No,Not-Active,Not_Married,0,male
+40021,18,38.17,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,female
+93622,59,27.5,0,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Not_Married,0,female
+729111,18,40.28,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+72421,19,35.4,0,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Not_Married,0,male
+47212,18,30.115,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+81813,21,37.1,3,no,RHODE ISLAND,Urban,Bachelor,No,Active,Not_Married,0,male
+467121,60,28.7,1,no,CONNECTICUT,Country,Bachelor,Yes,Active,Married,1,female
+1510,26,42.13,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+1256311,41,37.9,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+36121,46,32.3,2,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,1,female
+45522,32,46.53,2,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+4575,55,30.14,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+57122,31,29.1,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+527211,19,30.59,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,female
+1206121,35,17.86,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+124422,28,33.11,0,no,NEW JERSEY,Urban,Bachelor,No,Active,Married,0,female
+696112,27,40.185,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+67321,37,29.7,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+92622,49,32.11,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+84522,53,30.495,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,male
+17612,64,37.7,0,yes,PENNSYLVANIA,Country,Bachelor,Yes,Active,Not_Married,0,female
+1111211,52,32.3,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+538211,46,30.2,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+1246111,27,24.3,5,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+9921,39,27.835,2,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,1,female
+557211,46,33.44,1,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+7403,30,35.5,2,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+843211,24,32.78,2,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+3473,33,35.75,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+8041112,18,42.24,0,yes,RHODE ISLAND,Urban,Master,No,Not-Active,Married,0,female
+413112,27,17.195,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+12315,20,28.975,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+8915,63,26.885,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+978112,27,29.15,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+9242,34,35.815,0,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+50912,24,25.27,0,no,MARYLAND,Urban,PhD,No,Not-Active,Not_Married,1,female
+10963,19,31.35,4,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+115913,19,30.59,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+2192,25,29.92,1,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+363131,19,21.7,0,yes,RHODE ISLAND,Country,Bachelor,No,Active,Not_Married,1,female
+460121,40,33,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+71101,26,24.75,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+9483,37,34.2,1,yes,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,1,male
+39312,49,31.445,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,male
+1208111,35,33.4,2,yes,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+123822,58,28.215,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+12433,21,21.28,3,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,female
+708211,49,28.69,3,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,male
+6503,58,32.965,0,no,RHODE ISLAND,Urban,Master,No,Not-Active,Not_Married,0,female
+125841,55,27.645,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+90731,27,32.585,3,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,1,male
+11182,25,33.33,2,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,1,male
+121322,18,21.47,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+99121,25,19.8,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+3302,51,36.7,0,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,male
+1255121,33,27.72,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+3884,50,25.365,2,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,male
+48322,19,31.35,0,no,MASSACHUSETTS,Country,Bachelor,Yes,Not-Active,Not_Married,0,female
+1147111,60,32.8,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,1,male
+388111,50,25.365,2,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+47821,26,35.625,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+740111,28,35.5,2,yes,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,male
+724112,19,35.4,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+123141,20,28.975,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+61312,20,33.155,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+93423,45,35.3,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+1020212,21,32.68,2,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,1,female
+574112,63,36.86,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+513122,50,22.42,0,no,RHODE ISLAND,Urban,Master,Yes,Not-Active,Not_Married,0,male
+369112,45,32.015,2,no,MARYLAND,Urban,PhD,No,Active,Not_Married,0,male
+1271113,26,33.915,1,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,1,male
+4215,30,36.63,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+5923,46,19.57,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+13181,18,53.13,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+2217,35,33.7,1,no,MARYLAND,Country,PhD,No,Not-Active,Married,0,female
+9653,53,36.765,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+116021,30,41.1,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+379111,63,30.115,3,no,MASSACHUSETTS,Urban,No College Degree,No,Active,Married,0,female
+900211,19,22.515,0,no,RHODE ISLAND,Urban,No College Degree,Yes,Not-Active,Married,0,female
+4934,18,25.08,0,no,MASSACHUSETTS,Urban,PhD,No,Active,Not_Married,0,female
+9031111,25,27.265,3,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+2342111,58,27.5,1,no,RHODE ISLAND,Country,Master,No,Not-Active,Married,0,male
+713111,43,30.685,2,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Not_Married,1,female
+190122,28,32.11,2,no,RHODE ISLAND,Country,Bachelor,No,Not-Active,Not_Married,0,female
+102031,21,32.68,2,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Not_Married,0,female
+1294121,47,25.745,3,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Not_Married,1,male
+975111,26,35.42,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,male
+54331,63,36.3,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+1203111,23,32.11,0,no,NEW YORK,Country,Bachelor,No,Not-Active,Married,0,male
+3082,30,33.33,1,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+123101,20,28.975,0,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Married,0,female
+514113,20,30.4,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,male
+8444,57,29.81,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+1111221,54,32.3,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+86721,18,37.29,0,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,male
+13104,41,32.2,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+104631,45,24.7,2,yes,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+11881111,61,32.68,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+378131,25,40.15,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+93021,40,34.21,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+1329111,24,24.225,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,female
+8471111,53,34.2,1,no,NEW JERSEY,Urban,Master,No,Not-Active,Not_Married,0,female
+1851111,44,30.69,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+75521,25,33.63,4,no,PENNSYLVANIA,Urban,PhD,No,Active,Married,0,male
+23021,47,25.46,2,no,RHODE ISLAND,Country,Bachelor,No,Not-Active,Not_Married,0,male
+476211,60,28.31,1,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+133631,19,36.85,0,no,MASSACHUSETTS,Urban,No College Degree,No,Not-Active,Married,0,female
+27713,18,20.615,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+70041,23,39.27,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+38931,26,22.61,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,female
+88142,21,34.8,3,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+12072,58,34.8,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,female
+5651121,19,32.12,2,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,female
+1008311,47,28.215,3,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+1816,58,28.595,0,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,1,male
+88114,23,34.8,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+122523,40,23.94,1,no,NEW YORK,Country,Bachelor,No,Not-Active,Married,1,male
+5131211,51,22.42,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+747111,33,27,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+6062,51,34.1,0,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,female
+61841,49,25.6,2,yes,NEW YORK,Urban,No College Degree,No,Not-Active,Married,0,male
+121121,44,37.1,2,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,male
+841112,21,31.1,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+427111,38,27.265,1,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+538121,47,30.2,2,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+40711,32,24.31,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+301021,32,36.3,2,yes,NEW YORK,Urban,Master,No,Not-Active,Married,0,male
+45142,39,29.6,4,no,RHODE ISLAND,Urban,Master,No,Not-Active,Married,1,male
+1217111,40,25.08,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+21711,53,35.89,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+1192112,42,21.755,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+1339111,23,34.4,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+10415,61,29.92,3,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+39812,20,31.02,0,no,CONNECTICUT,Country,Bachelor,No,Active,Married,0,male
+6661211,43,38.06,2,yes,MARYLAND,Urban,Master,No,Not-Active,Married,0,male
+171111,52,30.78,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+65811,27,33.155,2,no,NEW YORK,Country,Bachelor,No,Not-Active,Married,1,male
+1021121,51,37,0,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Married,1,male
+284211,54,32.395,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+10613,20,28.025,1,yes,MARYLAND,Urban,Bachelor,No,Active,Not_Married,1,male
+6314,53,36.1,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,male
+58321,40,45.43,2,no,NEW YORK,Urban,Bachelor,Yes,Active,Married,0,male
+4765,62,28.31,1,yes,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+129331,22,23.21,0,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,male
+7115,27,24.75,0,yes,NEW YORK,Country,Bachelor,No,Not-Active,Married,1,female
+409111,38,21.12,3,no,RHODE ISLAND,Urban,PhD,No,Active,Not_Married,0,male
+84212,60,24.7,0,no,NEW YORK,Urban,Master,No,Not-Active,Not_Married,0,male
+6861112,52,26.41,2,no,MARYLAND,Urban,Master,Yes,Active,Married,0,male
+12405,26,42.13,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+1321212,31,31.065,3,no,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,0,male
+1018112,24,34.2,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+1111111,54,32.3,1,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+11541,36,35.815,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+59113,57,29,0,no,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,female
+2221112,52,33.25,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,female
+7732,44,36.48,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+934111,45,35.3,0,no,PENNSYLVANIA,Country,Master,No,Active,Not_Married,1,female
+50711,21,31.35,1,no,MARYLAND,Urban,Master,No,Not-Active,Married,0,male
+4774,23,28.5,0,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+6414,28,25.935,1,no,RHODE ISLAND,Country,Bachelor,No,Active,Not_Married,0,female
+582113,18,30.59,0,no,MARYLAND,Urban,No College Degree,Yes,Active,Married,0,male
+6931111,22,32.395,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+722111,53,36.6,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+114613,53,32.775,3,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,male
+93412,43,35.3,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+1352111,21,28.785,0,no,NEW YORK,Urban,PhD,Yes,Active,Married,0,female
+2251111,42,24.64,0,yes,MARYLAND,Country,Bachelor,No,Not-Active,Married,0,male
+119321,58,32.395,1,no,NEW JERSEY,Urban,Master,No,Not-Active,Married,0,female
+12702,45,27.5,3,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Married,0,male
+63331,29,35.53,0,no,RHODE ISLAND,Urban,Master,No,Not-Active,Married,0,female
+11642111,18,28.215,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+493211,18,25.08,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Not_Married,1,female
+109212,55,29.83,0,no,CONNECTICUT,Country,No College Degree,No,Not-Active,Married,0,female
+112411111,27,32.395,1,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,1,female
+799111,59,33.1,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+8610111,45,22.895,2,yes,PENNSYLVANIA,Country,Master,Yes,Not-Active,Not_Married,1,male
+4842,52,39.5,1,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,1,female
+113531,28,33.82,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+105031,49,30.9,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,male
+62622,30,26.03,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+42101,32,36.63,2,no,CONNECTICUT,Urban,Bachelor,No,Active,Not_Married,0,female
+10491,25,22.515,1,no,RHODE ISLAND,Urban,Bachelor,No,Active,Married,1,female
+53511111,65,40.48,0,no,MARYLAND,Urban,Bachelor,No,Active,Not_Married,0,male
+11551112,48,27.93,4,no,MASSACHUSETTS,Urban,Master,No,Not-Active,Married,0,female
+331021,20,28.6,5,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+600111,52,37.525,2,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,0,female
+4384,35,28.9,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+13121,32,26.695,0,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+211211,20,33,1,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,0,male
+11611121,43,34.58,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+1217122,40,25.08,0,no,NEW YORK,Urban,Master,No,Not-Active,Married,0,male
+28412,54,32.395,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+8722,27,29.48,1,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,0,female
+20101111,30,35.3,0,yes,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+1401211,22,36,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+1079111,28,31.68,0,yes,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+16323,55,39.6,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+80031,33,24.795,0,yes,RHODE ISLAND,Country,No College Degree,No,Active,Not_Married,0,male
+28121,55,32.775,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+11291111,36,32.8,1,no,MASSACHUSETTS,Country,No College Degree,No,Not-Active,Not_Married,0,male
+151211,37,24.13,1,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+7783,45,39.805,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+3961,47,19.855,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+100222,24,32.7,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+28713,45,48.07,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+836111,42,35.97,2,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Not_Married,0,male
+7833,50,35.97,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+74021,29,35.5,2,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+68921,47,24.1,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+5693,48,31.9,5,no,RHODE ISLAND,Urban,Bachelor,No,Active,Married,0,female
+5615,45,19.95,2,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,0,female
+4791111,21,36.85,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+131613,18,28.31,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+20711,59,26.4,0,no,MARYLAND,Urban,PhD,No,Not-Active,Married,1,male
+1416,34,22.42,2,no,RHODE ISLAND,Urban,PhD,No,Not-Active,Married,0,male
+1120111,32,19.95,3,no,CONNECTICUT,Country,Bachelor,Yes,Not-Active,Not_Married,0,female
+105512,26,21.47,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+9361211,59,27.5,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+1040211,18,27.265,2,no,PENNSYLVANIA,Country,Bachelor,No,Active,Married,0,male
+97313,22,20.235,0,no,CONNECTICUT,Urban,Master,No,Not-Active,Not_Married,0,female
+7011112,20,34.87,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+9963,39,23.275,3,no,NEW YORK,Urban,Bachelor,Yes,Active,Married,0,female
+38041,62,31.46,1,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+685311,33,18.5,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+82821,35,28.025,1,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+22213,50,33.25,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+47813,25,35.625,0,no,MARYLAND,Urban,PhD,No,Not-Active,Married,1,male
+831012,21,37.62,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+96432,45,27.5025,3,no,RHODE ISLAND,Urban,Master,No,Active,Married,0,male
+66011,57,28.785,4,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+77612,50,33.33,3,no,NEW YORK,Urban,Master,No,Not-Active,Not_Married,0,male
+118821,61,32.68,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,female
+22532,42,24.64,0,yes,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,1,male
+3294,64,33.8,1,yes,PENNSYLVANIA,Country,PhD,No,Not-Active,Married,0,female
+1297111,19,26.125,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Active,Married,0,male
+1047111,43,25.08,0,no,NEW YORK,Country,Master,No,Active,Not_Married,0,female
+2343,59,27.5,1,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Married,0,male
+105412,48,29.8,3,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+15722,48,24.42,0,yes,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+4554,32,46.53,2,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+4052,32,20.4,0,no,MARYLAND,Country,No College Degree,No,Not-Active,Married,0,male
+185211,44,30.69,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+965111,51,36.765,2,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Married,1,male
+891013,46,27.74,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,female
+92611111,51,32.11,2,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1249111,18,39.82,0,no,NEW JERSEY,Urban,PhD,No,Not-Active,Married,0,female
+561311,58,36.955,2,yes,MASSACHUSETTS,Country,PhD,No,Not-Active,Married,0,male
+4672111,60,28.7,1,no,PENNSYLVANIA,Urban,Master,No,Active,Married,1,female
+99922,34,36.29,3,no,CONNECTICUT,Urban,Master,No,Not-Active,Married,0,female
+12801111,24,26.79,2,no,MARYLAND,Country,No College Degree,No,Not-Active,Married,0,female
+246111,55,30.02,0,no,NEW YORK,Urban,Master,Yes,Active,Married,0,male
+33122,18,28.6,5,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,female
+937211,45,29.735,2,no,MASSACHUSETTS,Urban,Master,Yes,Active,Married,0,male
+54213,21,37.365,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+5601211,18,35.53,0,no,PENNSYLVANIA,Country,PhD,No,Active,Married,0,male
+1991,51,18.05,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+276121,46,26.6,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+6792,55,36.1,3,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+1325211,30,25.935,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+961411,19,39.615,1,no,MASSACHUSETTS,Urban,PhD,Yes,Not-Active,Married,0,female
+126521,48,33.345,2,no,MARYLAND,Country,Bachelor,Yes,Not-Active,Not_Married,0,female
+74741,35,27,2,no,MARYLAND,Country,Bachelor,No,Active,Married,0,male
+41712,52,34.1,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+43213,29,20.235,2,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,female
+735111,59,32.1,3,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+97013,39,34.32,5,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+39212,19,37.43,0,no,NEW JERSEY,Country,Bachelor,Yes,Not-Active,Married,0,female
+1283121,18,21.66,0,yes,PENNSYLVANIA,Urban,No College Degree,Yes,Active,Married,0,female
+838111,55,28.31,0,no,RHODE ISLAND,Urban,Master,No,Active,Married,0,female
+4261111,43,24.31,5,no,MARYLAND,Urban,Master,Yes,Not-Active,Married,1,male
+97621,29,22.895,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+124821,34,29.4,4,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,1,male
+50231,42,26.03,0,no,NEW YORK,Urban,PhD,No,Not-Active,Married,0,male
+483111,18,31.35,0,no,NEW YORK,Urban,Master,No,Not-Active,Married,0,female
+71832,61,24.32,1,no,MARYLAND,Urban,Master,Yes,Not-Active,Not_Married,1,male
+990113,24,20.52,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+1244111,27,33.11,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+599113,44,32.6,2,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,male
+501011,35,35.2,1,yes,PENNSYLVANIA,Country,PhD,No,Active,Married,0,male
+49222,61,25.08,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+5651211,18,32.12,2,no,CONNECTICUT,Country,Bachelor,No,Not-Active,Not_Married,0,female
+17141,63,41.47,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+1264211,44,29.9,1,no,RHODE ISLAND,Urban,No College Degree,Yes,Not-Active,Not_Married,0,female
+2473,60,38.06,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+52112,22,33.63,2,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+33811,64,27.55,1,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+543112,64,36.3,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,1,female
+127813,32,29.735,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+52911111,46,39.425,1,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+35113,57,23.18,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,female
+477112,23,28.5,0,yes,NEW YORK,Country,Bachelor,No,Not-Active,Married,0,male
+33622,65,34.5,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+761211,23,34.58,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+587111,22,20.235,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+160121,50,27.83,3,no,NEW YORK,Country,Master,No,Active,Not_Married,0,female
+805121,23,26.51,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+123423,59,23.3,0,no,MARYLAND,Urban,PhD,No,Active,Married,0,male
+1110211,25,26.22,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+83011,39,21.85,1,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+7232111,63,37.4,0,no,NEW YORK,Urban,Bachelor,Yes,Not-Active,Married,0,male
+982111,33,21.375,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,male
+8391112,34,23.465,2,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+87103,58,31.16,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+529121,47,39.425,1,no,RHODE ISLAND,Urban,Master,No,Not-Active,Not_Married,0,male
+100622,29,31.73,2,no,NEW YORK,Urban,PhD,No,Not-Active,Married,0,male
+21022,40,41.23,1,no,NEW JERSEY,Urban,Bachelor,No,Active,Not_Married,1,male
+9382,39,24.225,5,no,NEW YORK,Urban,Master,No,Not-Active,Not_Married,0,female
+3784,24,40.15,0,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+58131,18,31.68,2,yes,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,1,male
+6761111,45,21.375,0,no,MARYLAND,Urban,Bachelor,Yes,Active,Married,0,male
+117711,50,24.13,1,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,female
+116122,42,34.58,1,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,1,female
+7864,36,27.7,3,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+9601121,48,36.67,1,no,PENNSYLVANIA,Country,Master,No,Active,Not_Married,0,male
+88023,38,29.5,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+2593,52,24.415,4,no,RHODE ISLAND,Country,No College Degree,Yes,Not-Active,Married,0,male
+1061111,23,32.01,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+12693,21,33.3,0,no,NEW JERSEY,Urban,Bachelor,Yes,Not-Active,Married,1,female
+21721,52,26.6,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+11921111,41,21.755,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+27631,48,26.6,2,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,female
+101022,51,27.74,1,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Married,0,male
+96714,51,24.795,2,yes,MASSACHUSETTS,Urban,PhD,Yes,Active,Not_Married,0,male
+1134112,53,18.335,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+386112,19,34.4,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+8334,28,23.845,2,no,NEW JERSEY,Urban,Bachelor,Yes,Active,Married,0,female
+931031,58,29.83,3,yes,RHODE ISLAND,Country,Bachelor,No,Not-Active,Married,0,male
+11672,57,40.37,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+120531,18,27.28,3,yes,NEW YORK,Urban,PhD,No,Active,Married,0,female
+6943,25,23.655,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+63531,52,39.7,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+93911,19,26.18,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,male
+284111,56,32.395,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+110412,57,36.08,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+132611,61,33.535,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+1237111,63,21.66,0,no,NEW YORK,Urban,Master,No,Not-Active,Married,0,female
+1286211,48,29.47,0,no,PENNSYLVANIA,Urban,Master,No,Active,Married,1,female
+810111,25,25.84,1,no,PENNSYLVANIA,Urban,PhD,No,Active,Not_Married,0,male
+836311,42,35.97,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+302111,53,22.61,3,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+132921,22,24.225,2,no,CONNECTICUT,Urban,Bachelor,Yes,Active,Married,1,female
+360211,18,20.79,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+601211,18,39.16,0,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,0,female
+7853,31,29.26,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,female
+13082,31,28.12,4,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+27102,64,23.085,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+51331,52,22.42,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+5293,46,39.425,1,no,MASSACHUSETTS,Urban,PhD,Yes,Not-Active,Not_Married,0,male
+38631,19,34.4,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+27411111,50,27.455,1,no,NEW JERSEY,Urban,PhD,No,Active,Not_Married,0,male
+53122,58,42.13,1,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+130103,38,34.7,2,no,MARYLAND,Country,PhD,No,Not-Active,Not_Married,0,male
+187121,26,29.92,2,no,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,female
+68912,48,24.1,1,no,MARYLAND,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+41022,33,22.705,0,no,CONNECTICUT,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+324121,56,40.945,0,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Married,1,male
+67211,30,31.16,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,0,female
+1401111,22,36,0,no,MARYLAND,Country,PhD,Yes,Active,Married,1,female
+1299212,32,27.455,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+8910111,46,27.74,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+659111,47,35.91,1,no,MASSACHUSETTS,Urban,Master,No,Active,Not_Married,1,female
+40441,51,32.3,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+721122,50,40.66,0,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Married,1,female
+22721,28,38.06,0,no,NEW JERSEY,Country,Master,Yes,Not-Active,Not_Married,0,male
+112512,23,42.75,1,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+6071112,27,25.175,0,no,MARYLAND,Country,Bachelor,No,Active,Not_Married,0,female
+18013,40,33.155,3,no,NEW YORK,Country,Bachelor,No,Active,Not_Married,0,female
+8563,20,29.6,0,no,CONNECTICUT,Urban,Bachelor,Yes,Active,Not_Married,0,female
+119122,49,27.17,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,0,female
+8373,35,31.5,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+101421,47,32.3,1,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+331012,18,28.6,5,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Married,0,female
+118322,25,30.3,0,no,CONNECTICUT,Country,Master,No,Not-Active,Married,0,female
+77022,38,19.475,2,no,PENNSYLVANIA,Country,Master,No,Not-Active,Not_Married,0,female
+132133,62,22.04,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+636111,63,38.19,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+6072,27,25.175,0,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,0,female
+4515,38,37.05,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+228111,59,41.91,0,no,NEW JERSEY,Country,Bachelor,Yes,Not-Active,Married,0,female
+12381111,59,28.215,0,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,0,female
+572121,19,37.29,1,no,MASSACHUSETTS,Country,Bachelor,No,Active,Married,0,female
+6241,18,33.535,0,yes,PENNSYLVANIA,Urban,Master,No,Active,Married,1,male
+2241111,18,34.8,0,yes,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+604111,64,39.05,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+2613,58,25.2,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+6264,29,26.03,0,no,NEW JERSEY,Urban,Bachelor,No,Active,Married,1,female
+123621,25,31.065,0,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,0,male
+20913,62,31.8,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+47223,18,30.115,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+277112,20,20.615,2,no,NEW JERSEY,Country,Bachelor,No,Not-Active,Married,1,male
+1087111,55,28.975,0,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+51721,19,35.31,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,1,male
+674211,42,31.02,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,female
+10864,40,18.3,5,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+102041,21,32.68,2,no,NEW JERSEY,Urban,Master,Yes,Not-Active,Not_Married,0,female
+3674,56,32.3,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+33131,19,28.6,5,no,NEW YORK,Country,Bachelor,Yes,Not-Active,Married,0,female
+52613,18,33.88,0,no,MARYLAND,Urban,No College Degree,No,Not-Active,Not_Married,0,female
+651311,19,22.42,0,yes,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+110013,24,33.99,1,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+21731,53,26.6,0,no,NEW YORK,Urban,Bachelor,No,Active,Married,0,female
+49714,31,23.6,2,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Married,0,female
+11905,24,28,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+52413,38,37.73,0,no,MARYLAND,Country,PhD,No,Active,Married,0,female
+136111,22,28.05,0,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Not_Married,1,female
+55521,24,41.325,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+1221221,18,23.75,0,no,MARYLAND,Urban,Bachelor,No,Active,Married,1,male
+133621,18,36.85,0,no,NEW JERSEY,Urban,PhD,No,Not-Active,Married,0,female
+107112,38,37.07,1,yes,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+4073,33,24.31,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,1,female
+12293,56,34.43,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+21622,41,37.1,2,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Married,0,female
+831211,23,37.62,1,yes,MASSACHUSETTS,Urban,Master,No,Active,Married,0,male
+127332,43,25.52,5,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+108631,39,18.3,5,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+1249211,18,39.82,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+53313,59,29.7,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Not_Married,0,male
+2662111,45,42.35,3,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,0,male
+1843,44,37.5625,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+668211,40,32.775,2,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,female
+105021,49,30.9,0,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+3414,62,28.31,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+8416,20,31.1,0,no,RHODE ISLAND,Urban,Master,No,Active,Married,0,male
+45331,26,23.4,0,no,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Not_Married,1,male
+5915,58,29,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+84113,21,31.1,0,no,MARYLAND,Country,PhD,No,Not-Active,Married,0,male
+231111,42,36.195,1,no,PENNSYLVANIA,Country,No College Degree,Yes,Not-Active,Not_Married,0,female
+388311,50,25.365,2,no,NEW JERSEY,Country,Master,No,Not-Active,Married,0,male
+488211,19,28.7,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+114221,41,32.6,3,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+51611,59,35.7,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+88911,23,39.5,0,no,CONNECTICUT,Urban,Bachelor,No,Active,Not_Married,1,male
+1002211,24,32.7,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+46013,40,33,3,no,NEW YORK,Urban,Master,No,Not-Active,Not_Married,1,female
+5110111,19,35.625,0,no,MARYLAND,Urban,Bachelor,No,Active,Married,0,female
+4301121,27,30.4,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+2952,25,26.8,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+22822,58,41.91,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+6117,43,27.36,3,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,1,male
+43222,30,20.235,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,female
+73311,24,30.1,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+9721111,33,23.56,0,no,RHODE ISLAND,Urban,Master,Yes,Active,Not_Married,0,female
+731012,52,28.1,3,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,female
+403211,66,32.965,0,no,PENNSYLVANIA,Country,Master,No,Active,Not_Married,0,female
+1080121,64,33.66,3,no,CONNECTICUT,Urban,Master,Yes,Active,Married,0,male
+10124,42,20.13,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+114211111,41,32.6,3,no,MARYLAND,Country,Bachelor,Yes,Active,Not_Married,1,female
+704111,34,26.41,1,no,NEW JERSEY,Urban,Master,No,Not-Active,Not_Married,1,female
+1236111,24,31.065,0,no,NEW YORK,Country,Bachelor,No,Active,Not_Married,0,male
+80521,23,26.51,0,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+7415,57,32.01,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+490211,52,31.16,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+36212,35,30.5,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,male
+856112,21,29.6,0,no,RHODE ISLAND,Country,No College Degree,No,Not-Active,Married,0,female
+71002,45,33.44,1,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+1255112,35,27.72,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,female
+1033121,29,27.93,0,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+57822,32,38.095,1,yes,NEW JERSEY,Urban,Master,No,Active,Not_Married,0,female
+9201111,35,34.21,1,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+12110111,45,37.1,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+81112,46,30.8,3,no,MARYLAND,Country,No College Degree,No,Active,Not_Married,0,female
+5911111,58,29,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+5833,40,45.43,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+7883,21,36.86,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Active,Married,0,male
+60521,19,28.31,0,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+8104,36,27.74,3,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,female
+17631,63,37.7,0,yes,PENNSYLVANIA,Country,No College Degree,Yes,Active,Married,0,female
+90031,19,22.515,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,1,female
+603111,56,25.3,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+26622,46,42.35,3,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+30812,29,33.33,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+11952,31,28.77,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,female
+6171,56,28.595,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,female
+26101,59,27.72,3,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+737211,36,38.39,0,yes,NEW YORK,Country,Bachelor,Yes,Not-Active,Married,0,female
+999212,33,36.29,3,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,1,female
+78631,35,27.7,3,no,NEW YORK,Urban,Bachelor,No,Active,Not_Married,0,female
+485211,49,34.3,3,no,MARYLAND,Urban,No College Degree,No,Not-Active,Not_Married,0,male
+13442,18,25.555,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+763111,33,27.1,1,yes,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+3332,61,31.16,0,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,female
+12152,28,31.255,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+1240111,26,42.13,1,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Not_Married,1,female
+69132,21,27.36,0,no,RHODE ISLAND,Country,No College Degree,Yes,Active,Married,0,male
+28613,46,26.62,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+107811,21,26.03,0,no,NEW YORK,Urban,PhD,No,Not-Active,Married,0,male
+1161311,44,34.58,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,female
+33921,50,32.3,1,yes,MASSACHUSETTS,Urban,Master,No,Active,Married,1,male
+11715,58,49.06,0,no,PENNSYLVANIA,Urban,PhD,No,Active,Married,0,male
+18821,30,30.9,3,no,RHODE ISLAND,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+9234,39,31,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+129511,57,25.175,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+98322,32,25.9,3,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,0,male
+1317111,20,20.6,0,no,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,female
+4593,56,39.6,0,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Not_Married,1,male
+389121,28,22.61,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+115522,49,27.93,4,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,female
+80311,23,22.3,1,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,male
+78621,34,27.7,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,1,female
+987121,43,30.115,3,no,PENNSYLVANIA,Urban,PhD,No,Active,Not_Married,0,male
+11610,60,28.595,0,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+1112311,37,38.39,3,yes,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,1,male
+7421,26,29.15,0,yes,MARYLAND,Urban,Bachelor,No,Active,Married,0,male
+41141,23,26.6,0,no,MARYLAND,Urban,PhD,No,Not-Active,Married,0,female
+20611,29,28.88,1,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,female
+720121,59,33.44,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+19013,30,32.11,2,no,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,female
+80411111,18,42.24,0,yes,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+818111,23,37.1,3,no,PENNSYLVANIA,Urban,No College Degree,Yes,Active,Married,0,male
+1963,20,30.59,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+101912,54,35.815,3,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,1,female
+48102,27,34.77,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,female
+4691111,28,24.32,1,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,female
+8818,21,34.8,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+1091112,46,36.19,0,yes,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+791012,21,39.805,0,no,RHODE ISLAND,Country,PhD,No,Active,Married,0,female
+4854,49,34.3,3,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,male
+7721111,53,26.7,2,no,MARYLAND,Country,Bachelor,No,Active,Not_Married,1,female
+79322,21,23.18,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+7081112,49,28.69,3,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+307212,29,27.5,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Not_Married,1,female
+9001111,18,22.515,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+106232,56,27.94,1,no,MARYLAND,Urban,Master,No,Not-Active,Married,1,male
+1191111,30,32.775,2,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+130531,41,24.605,2,yes,MARYLAND,Urban,PhD,No,Not-Active,Married,1,male
+19511,18,27.76,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+12034,22,32.11,0,no,MARYLAND,Urban,Master,Yes,Not-Active,Married,0,male
+10243,18,23.32,1,no,PENNSYLVANIA,Urban,No College Degree,No,Active,Married,1,male
+226221,56,33.88,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,male
+121812,28,37.29,2,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,male
+66214,58,23.98,1,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Married,0,female
+1273311,43,25.52,5,no,NEW JERSEY,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+1223112,50,25.3,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,male
+1229112,54,34.43,0,no,PENNSYLVANIA,Urban,Master,Yes,Active,Not_Married,0,male
+212211,39,30.875,4,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+3072111,27,26.615,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+1056211,54,27.645,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Not_Married,1,male
+2452,62,27.74,0,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+560212,20,35.53,0,no,NEW YORK,Urban,No College Degree,No,Active,Married,0,male
+102921,54,31.6,0,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+9403,52,29.48,0,no,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,0,male
+3663,48,30.78,1,no,RHODE ISLAND,Country,Master,No,Not-Active,Married,0,female
+3812,25,20.8,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+5291121,45,39.425,1,no,MASSACHUSETTS,Urban,Bachelor,Yes,Not-Active,Married,1,male
+1151211,52,32.205,3,no,MASSACHUSETTS,Urban,Bachelor,No,Active,Married,0,male
+3116,50,26.6,0,no,NEW YORK,Urban,PhD,No,Not-Active,Married,0,male
+546211,49,25.84,2,yes,PENNSYLVANIA,Urban,Master,Yes,Not-Active,Married,0,male
+74311,53,34.105,0,yes,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,male
+86831,58,43.7,1,no,PENNSYLVANIA,Country,Bachelor,No,Active,Not_Married,0,male
+132522,31,25.935,1,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Not_Married,0,male
+266131,45,42.35,3,yes,PENNSYLVANIA,Urban,No College Degree,Yes,Not-Active,Married,0,male
+41631,43,35.64,1,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+43102,41,21.78,1,no,RHODE ISLAND,Urban,Master,No,Not-Active,Not_Married,0,male
+1023121,47,36.08,1,yes,RHODE ISLAND,Urban,No College Degree,No,Not-Active,Married,1,male
+856131,19,29.6,0,no,MARYLAND,Country,Master,No,Active,Married,0,female
+926112,49,32.11,2,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,1,male
+841121,21,31.1,0,no,NEW JERSEY,Urban,PhD,Yes,Not-Active,Married,1,male
+1065211,28,25.6,4,no,CONNECTICUT,Urban,No College Degree,No,Active,Married,0,female
+21811,26,23.1,0,no,MASSACHUSETTS,Country,Bachelor,No,Active,Married,0,male
+316221,54,33.25,0,no,RHODE ISLAND,Urban,Bachelor,No,Not-Active,Married,0,male
+41011,31,30.03,1,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Married,0,male
+4193,64,39.16,1,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,male
+4262,46,24.31,5,no,MARYLAND,Urban,Bachelor,Yes,Not-Active,Married,0,male
+113101,37,30.8,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,male
+562121,54,32.68,0,no,CONNECTICUT,Urban,Bachelor,No,Not-Active,Married,0,female
+11884,62,32.68,0,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+1242111,63,36.96,2,yes,PENNSYLVANIA,Country,Master,No,Not-Active,Married,0,male
+7714,30,29.59,1,no,MARYLAND,Urban,Master,No,Not-Active,Married,1,female
+52622,18,33.88,0,no,PENNSYLVANIA,Country,No College Degree,No,Not-Active,Married,0,female
+81313,53,21.01,2,no,NEW JERSEY,Urban,No College Degree,No,Not-Active,Married,1,male
+90022,20,22.515,0,no,MASSACHUSETTS,Country,Bachelor,No,Not-Active,Married,0,female
+496111,20,27.93,0,no,MASSACHUSETTS,Country,Master,No,Active,Married,0,male
+1124211,28,32.395,1,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Married,0,female
+3173,51,32.205,0,no,MASSACHUSETTS,Urban,Bachelor,No,Not-Active,Not_Married,1,male
+620111,53,37.1,0,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,female
+611221,43,27.36,3,no,PENNSYLVANIA,Urban,Master,No,Active,Not_Married,1,male
+52103,21,33.63,2,no,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,1,female
+129413,47,25.745,3,no,PENNSYLVANIA,Urban,No College Degree,No,Not-Active,Married,0,male
+5024,43,26.03,0,no,PENNSYLVANIA,Urban,Master,Yes,Active,Not_Married,0,male
+7653,44,25.175,2,no,PENNSYLVANIA,Urban,PhD,No,Not-Active,Married,0,female
+139311,54,31.9,3,no,PENNSYLVANIA,Urban,Master,No,Not-Active,Not_Married,0,female
+1188112,61,32.68,0,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,female
+7615,23,34.58,2,no,MARYLAND,Urban,Bachelor,No,Not-Active,Married,1,female
+87522,44,21.85,3,no,NEW YORK,Urban,Bachelor,No,Not-Active,Married,0,male
+84141,48,41.23,4,no,NEW YORK,Country,Bachelor,No,Not-Active,Married,0,female
+247121,59,38.06,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Not_Married,0,female
+221011,29,32.4,1,no,MARYLAND,Urban,PhD,No,Not-Active,Not_Married,0,female
+671013,62,39.1,2,no,MASSACHUSETTS,Urban,PhD,No,Not-Active,Not_Married,1,female
+619111,19,33.11,0,yes,PENNSYLVANIA,Urban,Master,Yes,Active,Not_Married,0,female
+8510,37,34.8,2,yes,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+950131,26,29.7,3,yes,PENNSYLVANIA,Urban,Bachelor,No,Not-Active,Married,0,male
+681111,20,17.4,1,no,PENNSYLVANIA,Country,Bachelor,Yes,Not-Active,Married,1,female
+56321,28,30.5,0,no,PENNSYLVANIA,Urban,Master,No,Active,Married,0,male
+263111,52,24.32,3,yes,PENNSYLVANIA,Country,Bachelor,No,Not-Active,Married,1,male
+532121,63,31.73,0,no,PENNSYLVANIA,Urban,Bachelor,No,Active,Married,0,female
+470111,19,24.09,1,no,MASSACHUSETTS,Urban,Master,Yes,Active,Married,0,female
+10331111,30,27.93,0,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+54813,53,46.7,2,no,PENNSYLVANIA,Urban,Bachelor,Yes,Not-Active,Not_Married,0,female
+13531,20,28.785,0,no,NEW YORK,Urban,Bachelor,No,Active,Married,0,female
